@@ -7,6 +7,17 @@ Copy changes to \DARK SOULS III\Game\Cinders\ folder. Export param changes in Ya
 #------------------------------
 # Changelog
 #------------------------------
+# Undead Settlement
+- Added Cathedral Evangelist.
+- Added Cage Spider.
+- Added Cage Spider.
+- Added Demon.
+
+# Road of Sacrifices
+- Added Black Knight.
+- Added Elder Ghru.
+- Added Elder Ghru.
+- Added Elder Ghru.
 
 #------------------------------
 # TODO
@@ -24,3 +35,4 @@ Copy changes to \DARK SOULS III\Game\Cinders\ folder. Export param changes in Ya
 # Research questline event flags
 # Research New Game event flags, to fix New Game option bug
 # Fix NG option appearing early (likely due to Yuria/Yoel questline)
+

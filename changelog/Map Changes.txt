@@ -19,11 +19,19 @@
 #---------------------------------
 # Undead Settlement - m31
 #---------------------------------
+- Added Pus of Man miniboss in the pit near the Dilapidated Bridge bonfire. Drops 5 Twinkling Titanite if killed.
+- Added Cathedral Evangelist.
+- Added Cage Spider.
+- Added Cage Spider.
+- Added Demon.
 
 #---------------------------------
 # Road of Sacrifices / Farron Keep - m33
 #---------------------------------
-- Added Pus of Man miniboss in the pit near the Dilapidated Bridge bonfire. Drops 5 Twinkling Titantie if killed.
+- Added Black Knight.
+- Added Elder Ghru.
+- Added Elder Ghru.
+- Added Elder Ghru.
 
 #---------------------------------
 # Cathedral of the Deep - m35
