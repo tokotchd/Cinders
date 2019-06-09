@@ -7,11 +7,12 @@
 # Gameplay
 - New Game multipliers have been adjusted.
 - Starting warps are now: High Wall of Lothric, Catacombs of Carthus, Snowfield and Dreg Heap.
+- Boss Souls can now be purchased at the Shrine Handmaid after defeating them. They cost 100,000 souls each.
 
 # Enemies
 - Reduced souls from Hollows in High Wall of Lothric to 50.
 - Caged Hollow now deals Poison, not Toxic.
-- Reduced the Curse inflict from Deacons of the Deep.
+- Toned down the Curse inflict from enemies it was recently added to.
 - Boreal Outrider Knights now respawn.
 - Boreal Outrider Knights may now drop any of the Irithyll weapons [Chance: 30%], a piece of Outrider Knight Set [Chance: 5%] or Twinkling Titanite [Chance: 50%].
 - Giant Crystal Lizards now respawn.
@@ -157,7 +158,7 @@
 
 # Anor Londo
 - Removed Aldrich boss bonfire.
-- Added Deep Acursed - Can drop Twinkling Titanite
+- Added Deep Acursed
 
 # Irithyll Dungeon
 
@@ -201,29 +202,4 @@
 #------------------------------
 # TODO
 #------------------------------
-- Add boss souls to shop for Lords of Cinder completion
-- Look into reset bosses via item
 
-712 14000830    Soul of Champion Gundyr
-714 13000890    Soul of the Dancer
-715 13300850    Soul of a Crystal Sage
-717 13300800    Soul of the Blood of the Wolf
-718 13000830    Soul of Consumed Oceiros
-719 13000800    Soul of Boreal Valley Vordt 
-720 13800830    Soul of the Old Demon King
-721 13010800    Soul of Dragonslayer Armour
-722 13200850    Soul of the Nameless King
-724 13700850    Soul of Pontiff Sulyvahn
-725 13700800    Soul of Aldrich
-726 13800800    Soul of High Lord Wolnir
-727 13100800    Soul of the Rotted Greatwood
-728 6312        Soul of Rosaria
-729 13500800    Soul of the Deacons of the Deep
-731 13410830    Soul of the Twin Princes
-732 13900800    Soul of Yhorm the Giant
-733 14100800    Soul of the Lords
-744 14500800    Soul of Sister Friede
-745 15110800    Soul of Slave Knight Gael
-746 15000800    Soul of the Demon Prince
-747 15100850    Soul of Darkeater Midir
-748 13700800    Soul of the Dark Sun

@@ -18,7 +18,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Vordt of the Boreal Valley
-- HP: 5000 [6000]
+- HP: 2000 [2400]
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       1.05 (105%)

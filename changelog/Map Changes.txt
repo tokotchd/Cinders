@@ -19,7 +19,7 @@ After placing the Coiled Sword you may warp to:
 - Removed Dancer boss bonfire.
 - Removed Oceiros boss bonfire.
 - Added Castle Entrance bonfire, in the courtyard between Vordt and Dancer.
-- Added Cathedral Knight in Tower on the Wall bonfire area.
+- Added Ancient Wyvern in Tower on the Wall bonfire area.
 - Added three Hollow Soldiers to starting rampart after first bonfire.
 - Added Lothric Knight in transition passage to Dragon courtyard.
 - Added Mimic to mimic room, drops 1 Cinders.
@@ -48,7 +48,6 @@ After placing the Coiled Sword you may warp to:
 # Road of Sacrifices - m33
 #---------------------------------
 - Removed Crystal Sage boss bonfire.
-- Removed Abyss Watchers boss bonfire.
 - Removed Road of Sacrifices bonfire.
 - Moved Crucifixion Woods bonfire closer to Crystal Sage, renamed to Sage's Overlook
 - Added Black Knight.
@@ -60,6 +59,7 @@ After placing the Coiled Sword you may warp to:
 # Farron Keep - m33
 #---------------------------------
 - Removed Keep Ruins bonfire.
+- Removed Abyss Watchers boss bonfire.
 - Added new wall.
 - Added Basilisk.
 - Added Basilisk.
@@ -69,15 +69,18 @@ After placing the Coiled Sword you may warp to:
 #---------------------------------
 # Cathedral of the Deep - m35
 #---------------------------------
-- Added Deep Acursed - Can drop Twinkling Titanite
-- Added Deep Acursed - Can drop Twinkling Titanite
-- Added Deep Acursed - Can drop Twinkling Titanite
-- Added Deep Acursed - Can drop Twinkling Titanite
+- Removed Deacons of the Deep boss bonfire.
+- Moved Cathedral of the Deep bonfire closer to the Deacons
+- Added Deep Acursed
+- Added Deep Acursed
+- Added Deep Acursed
+- Added Deep Acursed
 
 #---------------------------------
 # Catacombs of Carthus - m38
 #---------------------------------
 - Catacombs of Carthus bonfire moved to the start of the area.
+- High Lord Wolnir bonfire renamed to Tomb of the High Lord, and is no longer a boss bonfire.
 - Added Bonewheel Skeleton.
 - Added Bonewheel Skeleton.
 - Added Bonewheel Skeleton.
@@ -97,11 +100,15 @@ After placing the Coiled Sword you may warp to:
 - Renamed Demon Ruins bonfire to Smouldering Lake bonfire and changed menu image.
 - Removed the Abandoned Tomb bonfire.
 - Removed the Old King's Antechamber bonfire. 
-- Added Demon - Can drop Fire Seed and Titanite Scale.
-- Added Demon - Can drop Fire Seed and Titanite Scale.
-- Added Demon - Can drop Fire Seed and Titanite Scale.
-- Added Demon - Can drop Fire Seed and Titanite Scale.
-- Added Demon - Can drop Fire Seed and Titanite Scale.
+- Removed Old Demon King bonfire.
+- Added Demon
+- Added Demon
+- Added Demon
+- Added Demon
+- Added Demon
+- Added Stray Demon.
+- Added Stray Demon.
+- Added Stray Demon.
 - Added corpse near the Ballista, holds the Pact of Chaos covenant item.
 - Added Black Knight.
 - Added Black Knight.
@@ -191,6 +198,9 @@ After placing the Coiled Sword you may warp to:
 # Archdragon Peak - m32
 #---------------------------------
 - Removed Dragon-kin Mausoleum bonfire.
+- Added Ancient Wyvern in tower in Ancient Wyvern arena.
+- Added Ancient Wyvern near Great Belfry.
+- Removed two Serpent-men near Great Belfry.
 
 #---------------------------------
 # Painted World of Ariandel - m45

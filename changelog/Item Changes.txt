@@ -179,6 +179,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Now sells Veiled Flame
 - Now sells Pyromancy Flame
 - Now sells Oozing Pellets
+- Boss Souls can now be purchased at the Shrine Handmaid after defeating them. They cost 100,000 souls each.
 
 # Yoel/Yuria
 - Londor Braille Divine Tome now costs 5,000 souls
@@ -288,7 +289,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Can transfuse into Snap Freeze
 
 # Soul of Aldrich
-- Can transfuse into the Darkmoon Longbow infusion variants
+- Can transfuse into Darkmoon Longbow
 
 # Soul of the Twin Princes
 - Can transfuse into Lothric's Scythe
@@ -352,7 +353,7 @@ The player can give the Nestling these items an unlimited number of times.
 # Soul of Slave Knight Gael
 - Can transfuse into Halo
 - Can transfuse into Vanquisher Ring
-- Can transfuse into the Repeating Crossbow infusion variants
+- Can transfuse into Repeating Crossbow
 
 # Soul of Midir
 - Can transfuse into Abyss Ring
