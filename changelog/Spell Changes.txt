@@ -58,14 +58,14 @@
 # Homing Soulmass 
 - FP Cost: 40 
 - Stamina Cost: 70
-- Magic Damage: 50 (per bullet)
+- Magic Damage: 100 (per bullet)
 - Slot Usage: 1
 
 # Homing Crystal Soulmass 
 - INT Requirement: 40
 - FP Cost: 80
 - Stamina Cost: 70
-- Magic Damage: 75 (per bullet)
+- Magic Damage: 150 (per bullet)
 - Slot Usage: 2
 
 # Soul Spear
@@ -226,7 +226,7 @@
 - INT Requirement: 25
 - FP Cost: 80 
 - Stamina Cost: 55
-- Dark Damage: 75 (per bullet)
+- Dark Damage: 150 (per bullet)
 - Slot Usage: 2
 
 # Abyssal Burst 
@@ -348,7 +348,7 @@
 - Slot Usage: 1
 
 # Fire Surge 
-- FP Cost: 8
+- FP Cost: 4
 - Stamina Cost: 0
 - Fire Damage: 80
 - Slot Usage: 1
@@ -435,7 +435,7 @@
 # Seeds of Chaos
 - FP Cost: 40 
 - Stamina Cost: 70
-- Fire Damage: 50 (per bullet)
+- Fire Damage: 100 (per bullet)
 - Slot Usage: 1
 
 # Singe
@@ -637,7 +637,7 @@
 - FTH Requirement: 20
 - FP Cost: 40 
 - Stamina Cost: 70
-- Lightning Damage: 50 (per bullet)
+- Lightning Damage: 100 (per bullet)
 - Slot Usage: 1
 
 # --------- Dark Miracles

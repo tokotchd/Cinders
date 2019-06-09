@@ -1,10 +1,25 @@
-﻿#---------------------------------
-# Firelink Shrine / Unturned Graves - m40
+﻿#------------------------
+# Progression Changes
+#------------------------
+After placing the Coiled Sword you may warp to:
+- High Wall of Lothric bonfire
+- Catacombs of Carthus bonfire
+- Snowfield bonfire
+- The Dreg Heap bonfire
+
+#---------------------------------
+# Firelink Shrine - m40
 #---------------------------------
 
 #---------------------------------
 # High Wall of Lothric - m30
 #---------------------------------
+- Removed Tower on the Wall bonfire.
+- Removed Vordt boss bonfire.
+- Removed Dancer boss bonfire.
+- Removed Oceiros boss bonfire.
+- Added Castle Entrance bonfire, in the courtyard between Vordt and Dancer.
+- Added Cathedral Knight in Tower on the Wall bonfire area.
 - Added three Hollow Soldiers to starting rampart after first bonfire.
 - Added Lothric Knight in transition passage to Dragon courtyard.
 - Added Mimic to mimic room, drops 1 Cinders.
@@ -19,57 +34,163 @@
 #---------------------------------
 # Undead Settlement - m31
 #---------------------------------
-- Added Pus of Man miniboss in the pit near the Dilapidated Bridge bonfire. Drops 5 Twinkling Titanite if killed.
+- Removed Undead Settlement bonfire.
+- Added Cathedral Evangelist in Undead Settlement bonfire area.
+- Added Cathedral Evangelist.
+- Added two houses near the drop from the Hollow Slave rooftops to the base of the Giant's tower, creating a shortcut.
 - Added Cathedral Evangelist.
 - Added Cage Spider.
 - Added Cage Spider.
-- Added Demon.
+- Added Boreal Outrider Knight.
+- Added Boreal Outrider Knight.
 
 #---------------------------------
-# Road of Sacrifices / Farron Keep - m33
+# Road of Sacrifices - m33
 #---------------------------------
+- Removed Crystal Sage boss bonfire.
+- Removed Abyss Watchers boss bonfire.
+- Removed Road of Sacrifices bonfire.
+- Moved Crucifixion Woods bonfire closer to Crystal Sage, renamed to Sage's Overlook
 - Added Black Knight.
 - Added Elder Ghru.
 - Added Elder Ghru.
 - Added Elder Ghru.
 
 #---------------------------------
+# Farron Keep - m33
+#---------------------------------
+- Removed Keep Ruins bonfire.
+- Added new wall.
+- Added Basilisk.
+- Added Basilisk.
+- Added Basilisk.
+- Added Basilisk.
+
+#---------------------------------
 # Cathedral of the Deep - m35
 #---------------------------------
+- Added Deep Acursed - Can drop Twinkling Titanite
+- Added Deep Acursed - Can drop Twinkling Titanite
+- Added Deep Acursed - Can drop Twinkling Titanite
+- Added Deep Acursed - Can drop Twinkling Titanite
 
 #---------------------------------
-# Catacombs of Carthus / Smouldering Lake - m38
+# Catacombs of Carthus - m38
+#---------------------------------
+- Catacombs of Carthus bonfire moved to the start of the area.
+- Added Bonewheel Skeleton.
+- Added Bonewheel Skeleton.
+- Added Bonewheel Skeleton.
+- Added Bonewheel Skeleton.
+- Added Bonewheel Skeleton.
+- Added Bonewheel Skeleton.
+- Added Bonewheel Skeleton.
+- Added Bonewheel Skeleton.
+- Added Bonewheel Skeleton.
+- Added Bonewheel Skeleton.
+- Added Black Knight.
+
+#---------------------------------
+# Smouldering Lake - m38
+#---------------------------------
+- Moved the Demon Ruins bonfire to the top of the map, by the ballista.
+- Renamed Demon Ruins bonfire to Smouldering Lake bonfire and changed menu image.
+- Removed the Abandoned Tomb bonfire.
+- Removed the Old King's Antechamber bonfire. 
+- Added Demon - Can drop Fire Seed and Titanite Scale.
+- Added Demon - Can drop Fire Seed and Titanite Scale.
+- Added Demon - Can drop Fire Seed and Titanite Scale.
+- Added Demon - Can drop Fire Seed and Titanite Scale.
+- Added Demon - Can drop Fire Seed and Titanite Scale.
+- Added corpse near the Ballista, holds the Pact of Chaos covenant item.
+- Added Black Knight.
+- Added Black Knight.
+- Added Black Knight.
+- Added Demon Cleric.
+- Added Demon Cleric.
+
+#---------------------------------
+# Irithyll of the Valley - m37
+#---------------------------------
+- Removed Pontiff Sulyvahn boss bonfire.
+- Removed Central Irithyll bonfire.
+- Removed Water Reserve bonfire.
+- Removed Irithyll of the Boreal Valley bonfire.
+- Added Sulyvahn's Beast - Can drop Twinkling Titanite.
+- Added Sulyvahn's Beast - Can drop Twinkling Titanite.
+- Added Sulyvahn's Beast - Can drop Twinkling Titanite.
+- Added Silver Knight (Greatbow)
+- Added Silver Knight (Greatbow)
+- Added Silver Knight (Greatbow)
+- Added Silver Knight (Greatbow)
+- Added Silver Knight (Greatbow)
+- Added Silver Knight (Greatbow)
+- Added Silver Knight (Greatbow)
+- Added Silver Knight (Greatbow)
+- Added Silver Knight (Greatbow)
+
+
+#---------------------------------
+# Anor Londo - m37
+#---------------------------------
+- Removed Aldrich boss bonfire.
+- Added Deep Acursed - Can drop Twinkling Titanite
+
+#---------------------------------
+# Irithyll Dungeon - m39
 #---------------------------------
 
 #---------------------------------
-# Irithyll of the Valley / Anor Londo - m37
+# Profaned Capital - m39
 #---------------------------------
-
-#---------------------------------
-# Profaned Capital / Irithyll Dungeon - m39
-#---------------------------------
+- Profaned Capital bonfire moved down to the lower path near the Profaned Flame.
+- Removed Yhorm boss bonfire.
 
 #---------------------------------
 # Lothric Castle - m30_01
 #---------------------------------
+- Dragonslayer Armour boss bonfire removed.
+- Dragon Barracks bonfire moved close to Dragonslayer Armour.
+- Added Boreal Outrider Knight.
+- Added Boreal Outrider Knight.
 
 #---------------------------------
 # Consumed King's Gardens - m30
 #---------------------------------
-- Added Pus of Man.
+- Added Consumed Gardens bonfire, near to Oceiros.
 - Added Pus of Man.
 
 #---------------------------------
-# Grand Archives - m34
+# Grand Archives - m34_01
+#---------------------------------
+- Grand Archives bonfire moved close to Twin Princes. Renamed to Throne of Lothric
+- Added Boreal Outrider Knight.
+- Added Boreal Outrider Knight.
+- Added Boreal Outrider Knight.
+- Added Lothric Knight.
+- Added Lothric Knight.
+- Added Archive Scholar.
+- Added Archive Scholar.
+- Added Archive Scholar.
+- Added Gargoyle.
+
+#---------------------------------
+# Unturned Graves - m40
 #---------------------------------
 
 #---------------------------------
 # Kiln of the First Flame - m41
 #---------------------------------
+- Added Black Knight.
+- Added Black Knight.
+- Added Black Knight.
+- Added Black Knight.
+- Added Black Knight.
 
 #---------------------------------
 # Archdragon Peak - m32
 #---------------------------------
+- Removed Dragon-kin Mausoleum bonfire.
 
 #---------------------------------
 # Painted World of Ariandel - m45

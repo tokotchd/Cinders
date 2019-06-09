@@ -400,6 +400,19 @@
 - Rusted Gold Coin mimic now drops Giant Set
 - Titanite Scale mimic in Lothric Castle now drops Lothric Candlestick
 
+# Boreal Outrider Knight
+- Can now drop Twinkling Titanite
+- Can now drop Irithyll Straight Sword
+- Can now drop Irithyll Rapier
+- Can now drop Irithyll Lance
+- Can now drop Irithyll Pick
+- Can now drop Irithyll Mace
+- Can now drop Irithyll Greatsword
+- Can now drop Outrider Knight Set
+
+# Black Knight
+- [Kiln of the First Flame] Can now drop Titanite Slabs and Titanite Chunks.
+
 # Crystal Lizard
 - All previously Gem dropping lizards now drop a reinforcement material.
 
@@ -570,3 +583,10 @@
 
 # Tree Women
 - Can now drop Fire Seeds.
+
+# Demon (Smouldering Lake)
+- Can drop Fire Seeds.
+- Can drop Titanite Scales.
+
+# Deep Acursed (Cathedral of the Deep)
+- Can drop Twinkling Titanite

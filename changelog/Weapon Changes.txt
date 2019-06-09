@@ -1855,12 +1855,6 @@ Refined:
 - Can cast Pyromancies.
 - Alters Spell Buff with INT
 
-# Fool's Flame
-- Reinforcement: Fire Seed
-- Weight: 0
-- Can cast Pyromancies.
-- Alters Spell Buff with LCK
-
 #------------------------
 # Arrows
 #------------------------

@@ -137,3 +137,9 @@
 
 # Fire Seed
 - Reinforcement material for pyromancy flames.
+
+# Soul of a Demon
+- Value: 2000
+
+# Soul of a Stray Demon
+- Value: 2000

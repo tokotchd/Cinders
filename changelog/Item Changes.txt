@@ -286,7 +286,6 @@ The player can give the Nestling these items an unlimited number of times.
 
 # Soul of Boreal Valley Vordt 
 - Can transfuse into Snap Freeze
-- Can transfuse into Irithyll Greatsword
 
 # Soul of Aldrich
 - Can transfuse into the Darkmoon Longbow infusion variants
@@ -473,7 +472,6 @@ The player can give the Nestling these items an unlimited number of times.
 - Soul of a Crestfallen Knight location is now Witch's Staff
 - Homeward Bone location is now Smouldering Greatsword
 - Ember location is now Ring of Spite
-- Chaos Gem location is now Pact of Chaos
 - Large Titanite Shard location is now Fire Seed
 - Added Fire Seed to Witch's Ring location
 - Added Fire Seed to Sacred Flame location
@@ -488,14 +486,11 @@ The player can give the Nestling these items an unlimited number of times.
 - Large Titanite Shard location is now Witchtree Limb
 - Deep Gem location is now Titanite Scale
 - Reversal Ring location is now Soul of the Dark Sun
-- Budding Green Blossom location is now Irithyll Lance
 - Great Heal location is now Wretched Pendant
 - Rusted Gold Coin location is now Infusing Essence
 - Homeward Bone location is now Small Doll
 - Blood Gem location is now Ring of Reprisal
 - Roster of Knights location now includes Yorshka's Hammer
-- Large Titanite Shard location is now Irithyll Warpick
-- Large Titanite Shard location is now Irithyll Mace
 - Kukri location is now Resonating Crystal
 - Fading Soul location is now Fire Seed
 
