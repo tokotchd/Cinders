@@ -4,365 +4,636 @@
 # Covenant of Champions
 - Reduces all absorption by 100%
 - Allows Cinders to be dropped.
+- Source: Treasure - Cemetery of Ash
 
 # Blade of the Darkmoon
 - Boosts magic damage by 10%
+- Source: Company Captain Yorshka - Anor Londo
 
 # Spears of the Church
 - Boosts damage absorption by 10%
+- Source: Boss - Darkeater Midir
 
 # Watchdogs of Farron
 - Reduces weapon stamina consumption by 10%.
+- Source: Old Wolf of Farron - Farron Keep
 
 # Aldrich Faithful
 - Boosts dark damage by 10%
+- Source: Archdeacon McDonnell - Irithyll of the Boreal Valley
 
 # Blue Sentinels
 - Reduces weapon and spell FP consumption by 10%
+- Source: Anri - Road of Sacrifices
 
 # Warriors of Sunlight
 - Boosts lightning damage by 10%
+- Source: Treasure - Undead Settlement
 
 # Mound-makers
 - Boosts physical damage by 10%
+- Source: Holy Knight Hodrick - Undead Settlement
 
 # Way of Blue
 - Boosts max HP by 10%
+- Source: Emma - High Wall of Lothric
 
 # Rosaria's Fingers
 - Boosts souls from enemies by 10%
+- Source: Rosaria - Cathedral of the Deep
 
 # Pact of Chaos
 - Boosts fire damage by 10%
+- Source: Treasure - Smouldering Lake
 
 #------------------------
 # Ring Changes
 #------------------------
 # Life Ring
+- Weight: 1
 - Grants 15% increased Max HP
+- Source: Purchase - Shrine Handmaid
 
 # Chloranthy Ring
+- Weight: 1
 - Grants 10 Stamina Recovery
+- Source: Treasure - Undead Settlement
 
 # Havel's Ring
+- Weight: 2
 - Grants 30% increased Max. Equip Load
+- Source: Boss - Stray Demon
 
 # Ring of Favor
+- Weight: 1.5
 - Grants 5% increased Max HP
 - Grants 5% increased Max FP
 - Grants 5% increased Max Stamina
 - Grants 5% increased Max. Equip Load
+- Source: Drop - Sulyvahn's Beast - Irithyll of the Boreal Valley
 
 # Ring of Steel Protection
+- Weight: 1.5
 - Grants 20% Physical Absorption
+- Source: Treasure - Archdragon Peak
 
 # Flame Stoneplate Ring
+- Weight: 1
 - Grants 20% Fire Absorption
+- Source: Treasure - Undead Settlement
 
 # Thunder Stoneplate Ring
+- Weight: 1
 - Grants 20% Lightning Absorption
+- Source: Treasure - Archdragon Peak
 
 # Magic Stoneplate Ring
+- Weight: 1
 - Grants 20% Magic Absorption
+- Source: Drop - Cathedral Knight - Consumed King's Garden
 
 # Dark Stoneplate Ring
+- Weight: 1
 - Grants 20% Dark Absorption
+- Source: Treasure - Irithyll of the Boreal Valley
 
 # Speckled Stoneplate Ring
+- Weight: 1
 - Grants 10% Fire Absorption
 - Grants 10% Lightning Absorption
 - Grants 10% Magic Absorption
 - Grants 10% Dark Absorption
+- Source: Treasure - Farron Keep
+
+# Bloodbite Ring
+- Weight: 1
+- Increases Bleed resistance by 90
+- Source: Drop - Giant Rat - Undead Settlement
+
+# Poisonbite Ring
+- Weight: 1
+- Increases Poison (and Toxic) resistance by 90
+- Source: Treasure - Cathedral of the Deep
+
+# Cursebite Ring
+- Weight: 1
+- Increases Curse resistance by 150
+- Source: Treasure - Profaned Capital
+
+# Fleshbite Ring
+- Weight: 1
+- Increases Poison, Toxic, Bleed, Frost and Curse resistance by 40
+- Source: Treasure - Grand Archives
 
 # Wood Grain Ring
+- Weight: 1
 - Grants 5% increased Physical damage
+- Source: Purchase - Easterner's Ashes - Shrine Handmaid
 
 # Scholar Ring
+- Weight: 1
+- Increases INT by 5
+- Source: Treasure - Grand Archives
 
 # Priestess Ring
+- Weight: 1
+- Increases FTH by 5
+- Source: Purchase - Shrine Handmaid - Untended Graves
 
 # Red Tearstone Ring
+- Weight: 1
 - Grants 25% increased damage whilst below 25% HP
+- Source: Treasure - Lothric Castle
 
 # Blue Tearstone Ring
+- Weight: 1
 - Grants 50% absorption whilst below 25% HP
+- Source: Quest - Greirat
 
 # Wolf Ring
-- Grants 20 Poise
+- Weight: 1
+- Reduces weapon stamina consumption by 10% and weapon skill FP consumption by 10%
+- Source: Covenant - Watchdogs of Farron Rank 2
 
 # Leo Ring
+- Weight: 1
+- Increases thrust attacks and counter attacks by 15%, lowers thrust defence by 30%
+- Source: Treasure - Irithyll of the Boreal Valley
 
 # Ring of Sacrifice
+- Weight: 1
+- Negate the effects of death. Breaks after use.
+- Source: Treasure - High Wall of Lothric
+- Source: Treasure - Consumed King's Garden
+- Source: Treasure - Irithyll of the Boreal Valley
+- Source: Trade - Crow - Loretta's Bone
 
 # Young Dragon Ring
+- Weight: 0.5
 - Grants 20% reduction to the FP cost of Sorceries
+- Source: Quest - Orbeck
 
 # Bellowing Dragoncrest Ring
+- Weight: 0.5
 - Grants 5% boost to the power of Sorceries
+- Source: Treasure - Irithyll Dungeon
 
 # Great Swamp Ring
+- Weight: 0.5
 - Grants 20% reduction to the FP cost of Pyromancies
+- Source: Drop - Great Crab - Road of Sacrifices
 
 # Witch's Ring
+- Weight: 0.5
 - Grants 5% boost to the power of Pyromancies
+- Source: Treasure - Smouldering Lake
 
 # Morne's Ring
+- Weight: 0.5
 - Grants 20% reduction to the FP cost of Miracles
+- Source: Treasure - Road of Sacrifices
 
 # Ring of the Sun's First Born
+- Weight: 0.5
 - Grants 5% boost to the power of Miracles
+- Source: Treasure - Irithyll of the Boreal Valley
 
 # Lingering Dragoncrest Ring
+- Weight: 0.5
 - Grants 50% boost to the duration of effects
+- Source: Drop - Great Crab - Farron Keep
 
 # Sage Ring
+- Weight: 0.5
 - Grants 25 Casting Speed
+- Source: Treasure - Road of Sacrifices
 
 # Slumbering Dragoncrest Ring
+- Weight: 0.5
+- Masks the sound of the wearer.
+- Source: Quest - Orbeck
 
 # Dusk Crown Ring
+- Weight: 0.5
 - Grants 10% boost to the power of Sorceries but increases spell FP cost by 25%.
+- Source: Treasure - Irithyll Dungeon
 
 # Saint's Ring
+- Weight: 0.5
 - Grants 2 Attunement slots
+- Source: Purchase - Irina
 
 # Deep Ring
+- Weight: 0.5
 - Grants 5% boost to the power of Hexes
+- Source: Boss - Deacons of the Deep
 
 # Darkmoon Ring
+- Weight: 0.5
 - Grants 3 FP every second
+- Source: Covenant - Blade of the Darkmoon Rank 2
 
 # Hawk Ring
+- Weight: 1
 - Grants 100 boost to bow distance
+- Source: Drop - Giant - Undead Settlement
 
 # Hornet Ring
+- Weight: 1
+- Increases critical damage.
+- Source: Treasure - Untended Graves
 
 # Covetous Gold Serpent Ring
+- Weight: 2
 - Grants 100 item discovery
+- Source: Treasure - Profaned Capital
 
 # Covetous Silver Serpent Ring
+- Weight: 2
 - Grants 30% extra souls
+- Source: Drop - Mimic - High Wall of Lothric
 
 # Sun Princess Ring
+- Weight: 0.5
 - Grants 3 HP every second
+- Source: Treasure - Irithyll of the Boreal Valley
 
 # Silvercat Ring
+- Weight: 0
+- Negates non-fatal falling damage.
+- Source: Quest - Sirris of the Sunless Realms
 
 # Skull Ring
+- Weight: 1
 - Grants 10% boost to Physical damage but increases weapon FP cost by 25% and attracts enemies to you.
+- Source: Drop - Ludleth of Courland
 
 # Untrue White Ring
-
-# Untrue Dark Ring
+- Weight: 1
+- Applies apperance of white phantom.
+- Source: Purchase - Yuria of Londor
 
 # Carthus Milkring
+- Weight: 0.5
 - Increases roll i-frames but reduces absorption by 15%
-
-# Carthus Bloodring
-- Grants 5 stamina recovery and obscures the roll.
+- Source: Treasure - Catacombs of Carthus
 
 # Knight's Ring
+- Weight: 1
+- Increases STR by 5
+- Source: Treasure - Lothric Castle
 
 # Hunter's Ring
+- Weight: 1
+- Increases DEX by 5
+- Source: Treasure - Grand Archives
 
 # Knight Slayer's Ring
+- Weight: 2
 - Enemies lose 40% more stamina when they block attacks.
+- Source: Drop - Knight Slayer Tsorig - Catacombs of Carthus
 
 # Magic Clutch Ring
+- Weight: 1
 - Grants 10% Magic boost but reduces absorption by 10%
+- Source: Treasure - Irithyll of the Boreal Valley
 
 # Lightning Clutch Ring
+- Weight: 1
 - Grants 10% Lightning boost but reduces absorption by 10%
+- Source: Drop - Mimic - Irithyll Dungeon
 
 # Fire Clutch Ring
+- Weight: 1
 - Grants 10% Fire boost but reduces absorption by 10%
+- Source: Treasure - Undead Settlement
 
 # Dark Clutch Ring
+- Weight: 1
 - Grants 10% Dark boost but reduces absorption by 10%
+- Source: Drop - Mimic - Irithyll Dungeon
 
 # Flynn's Ring
+- Weight: 0
 - Grants 35% boost, scaling downwards with equip load to 0% at 30.
+- Source: Treasure - Undead Settlement
 
 # Prisoner's Chain
+- Weight: 2
 - Grants 5 Vigor, Endurance and Vitality but reduces absorption by 10%.
+- Source: Boss - Champion Gundyr
+
+# Untrue Dark Ring
+- Weight: 1
+- Applies apperance of non-phantom.
+- Source: Purchase - Yuria of Londor
 
 # Obscuring Ring
+- Weight: 0.5
 - Obscures the user and reduces enemy visual detection massively.
+- Source: Covenant - Rosaria's Fingers Rank 1
 
 # Ring of the Evil Eye
+- Weight: 1
 - Grants 100 HP on enemy kills.
+- Source: Quest - Anri
 
-# Calamity Ring 
-- Increases physical damage by 15% but wearer loses 0.2% HP a second.
+# Calamity Ring
+- Weight: 1
+- Increases physical damage by 15% but wearer loses 0.5% HP a second.
+- Source: Treasure - Archdragon Peak
 
 # Farron Ring
+- Weight: 1
 - Grants 20% reduction to Weapon Art FP cost.
+- Source: Quest - Hawkwood the Deserter
 
 # Aldrich's Ruby
+- Weight: 1
 - Grants 100% HP on a successful critical hit.
+- Source: Drop - Deep Accursed - Anor Londo
 
 # Aldrich's Sapphire
+- Weight: 1
 - Grants 100% FP on a successful critical hit.
+- Source: Drop - Deep Accursed - Cathedral of the Deep
 
 # Lloyd's Sword Ring
+- Weight: 1
 - Grants 15% boost to damage when at 100% HP
+- Source: Treasure - Cathedral of the Deep
 
 # Lloyd's Shield Ring
+- Weight: 1
 - Grants 40% absorption when at 100% HP
+- Source: Purchase - Paladin's Ashes - Shrine Handmaid
 
 # Estus Ring
+- Weight: 1
 - Grants 25% increase in Estus Recovery
+- Source: Treasure - Cemetery of Ash
 
 # Ashen Estus Ring
+- Weight: 1
 - Grants 50% increase in Ashen Estus Recovery
+- Source: Treasure - Cemetery of Ash
 
 # Horsehoof Ring
+- Weight: 1
 - Grants 100% increase in kick stamina damage
+- Source: Drop - Unbreakable Patches
+- Source: Purchase - Unbreakable Patches
+
+# Carthus Bloodring
+- Weight: 0.5
+- Grants 5 stamina recovery and obscures the roll.
+- Source: Treasure - Catacombs of Carthus
 
 # Reversal Ring
+- Weight: 0.5
+- Switchs moveset to opposite gender.
+- Source: Treasure - Anor Londo
 
 # Pontiff's Right Eye
+- Weight: 1
 - Grants 15% attack boost as long as attacking persists.
+- Source: Drop - Sulyvahn's Beast - Irithyll of the Boreal Valley
 
 # Pontiff's Left Eye
+- Weight: 1
 - Grants 10 FP with successive attacks.
+- Source: Boos - Vordt of the Boreal Valley
 
 # Dragonscale Ring
+- Weight: 1
 - Grants 15% increased Max FP.
+- Source: Treasure - Consumed King's Garden
 
 # Chillbite Ring
+- Weight: 1
+- Increases Frost resistance by 140
+- Source: Quest - Sister Friede
 
 #--------------------
 # New Rings
 #--------------------
-# Ring of Londor 
+# Ring of Londor
+- Weight: 0.5
 - Grants 2 Attunement slots
+- Source: Treasure - Profaned Capital
 
-# Spirit Amethyst 
+# Spirit Amethyst
+- Weight: 0.5
 - Grants 25 FP on enemy kills
+- Source: Treasure - Consumed King's Garden
 
 # Unholy Remains
+- Weight: 1
 - Boosts dark spell damage by 10% but increases spell FP cost by 25%.
+- Source: Treasure - Catacombs of Carthus
 
 # Forgotten Pendant
+- Weight: 0.5
 - Boosts casting speed by 30.
+- Source: Treasure - Anor Londo
 
 # Wretched Pendant
+- Weight: 1
 - Reduces weapon stamina consumption by 15%
+- Source: Treasure - Irithyll of the Boreal Valley
 
 # Symbol of the Penitent
+- Weight: 1
 - Boosts maximum stamina by 15%
+- Source: Treasure - Road of Sacrifices
 
 # Desiccated Finger
+- Weight: 1
 - Boosts stamina regen by 10
+- Source: Treasure - Lothric Castle
 
 # Runic Seal
+- Weight: 2
 - Slows movement severely but prevents staggering.
+- Source: Treasure - Farron Keep
 
 # Tome of Sunlight
+- Weight: 1
 - Boosts lightning miracle spell damage by 10% but increases spell FP cost by 25%.
+- Source: Treasure - Grand Archives
 
 # Greatwood Remnants
+- Weight: 3
 - Increases absorption by 15% 
+- Source: Boss - Curse-rotted Greatwood
 
 # Charred Bone
+- Weight: 1
 - Boosts fire pyromancy spell damage by 10% but increases spell FP cost by 25%.
+- Source: Treasure - Smouldering Lake
 
-# Green Tearstone Ring 
+# Green Tearstone Ring
+- Weight: 1
 - Boosts stamina recovery by 20 whilst below 25% health
+- Source: Treasure - High Wall of Lothric
 
-# Yellow Tearstone Ring 
+# Yellow Tearstone Ring
+- Weight: 1
 - Reduces weapon skill FP cost by 50% whilst below 25% health
+- Source: Treasure - Undead Settlement
 
-# Violet Tearstone Ring 
+# Violet Tearstone Ring
+- Weight: 1
 - Boosts casting speed by 50 whilst below 25% health
+- Source: Treasure - Road of Sacrifices
 
-# Ring of Woe 
+# Ring of Woe
+- Weight: 1
 - Boosts stamina recovery by 30 but wearer loses 0.5% HP a second.
+- Source: Treasure - Anor Londo
 
-# Ring of Adversity 
+# Ring of Adversity
+- Weight: 1
 - Grants 4 FP every second but wearer loses 0.5% HP a second.
+- Source: Treasure - Consumed King's Garden
 
-# Ring of Catastrophe 
-- Boosts elemental attack by 15% but wearer loses 0.5% HP a second.
+# Ring of Catastrophe
+- Weight: 1
+- Boosts elemental spell power by 15% but wearer loses 0.5% HP a second.
+- Source: Treasure - Grand Archives
 
 # Demonsbane Ring
+- Weight: 2
 - Increase damage against Demons enemies by 20%
+- Source: Treasure - Smouldering Lake
 
 # Crypt Ring
+- Weight: 2
 - Increase damage against Undead enemies by 20%
+- Source: Treasure - Catacombs of Carthus
 
 # Blight Ring
+- Weight: 2
 - Increase damage against Hollow enemies by 20%
+- Source: Drop - Isabella the Mad - Road of Sacrifices
 
 # Hallowed Ring
+- Weight: 2
 - Increase damage against Abyssal enemies by 20%
+- Source: Treasure - Irithyll Dungeon
 
 # Ring of Wisdom
-- Increases max FP by 10%, spell duration by 25% and grants 1 attunement slot
+- Weight: 1
+- Increases max FP by 10%, spell duration by 50%.
+- Source: Drop - Court Sorcerer - Profaned Capital
 
 # Ring of Constitution
+- Weight: 1
 - Boosts max HP by 15%
+- Source: Boss - Soul of Cinder
 
 # Ring of Fortitude
+- Weight: 1
 - Boosts max stamina by 15%
+- Source: Boss - Soul of Cinder
 
 # Ring of Clarity
+- Weight: 1
 - Boosts max FP by 15%
+- Source: Boss - Soul of Cinder
 
 # Iron Grain Ring
+- Weight: 1
 - Boosts physical attack by 10%
+- Source: Boss - Yhorm the Giant
 
 # Elder Dragoncrest Ring
+- Weight: 1
 - Boosts potency of sorceries by 10%
+- Source: Boss - Prince Lothric
 
 # Ring of Disparity
+- Weight: 1
 - Boosts potency of pyromancies by 10%
+- Source: Boss - Demon Prince
 
 # Ring of the Sun
+- Weight: 1
 - Boosts potency of miracles by 10%
+- Source: Boss - Nameless King
 
 # Abyss Ring
+- Weight: 1
 - Boosts potency of dark sorceries and miracles by 10%
+- Source: Boss - Darkeater Midir
 
 # Ring of Alacrity
+- Weight: 1
 - Boosts casting speed by 50
+- Source: Boss - Oceiros
 
 # Vanquisher Ring
+- Weight: 1
 - Reduces weapon stamina consumption by 15%
+- Source: Boss - Slave Knight Gael
 
 # Celestial Ring
+- Weight: 1
 - Grants 2 FP every second
+- Source: Boss - Sister Friede
 
 # Ring of Retaliation
+- Weight: 0.5
 - Grants 40 Physical damage on rolling action.
+- Source: Treasure - Farron Keep
 
 # Ring of Reprisal
+- Weight: 0.5
 - Grants 40 Magic damage on rolling action.
+- Source: Treasure - Irithyll of the Boreal Valley
 
 # Ring of Spite
+- Weight: 0.5
 - Grants 40 Fire damage on rolling action.
+- Source: Treasure - Smouldering Lake
 
 # Ring of Retribution
+- Weight: 0.5
 - Grants 40 Lightning damage on rolling action.
+- Source: Treasure - Archdragon Peak
 
 # Ring of Vengeance
+- Weight: 0.5
 - Grants 40 Dark damage on rolling action.
+- Source: Treasure - Cathedral of the Deep
 
 # Bulwark Ring
+- Weight: 1
 - Boosts durability by 10
+- Source: Treasure - Undead Settlement
 
 # Inscribed Rune
-- Increases Vigor by 5
+- Weight: 1
+- Increases VIG by 5
+- Source: Treasure - High Wall of Lothric
 
 # Scrolls of the Augur
-- Increases Attunement by 5
+- Weight: 1
+- Increases ATN by 5
+- Source: Treasure - Road of Sacrifices
 
 # Banner of Tenacity
-- Increases Endurance by 5
+- Weight: 1
+- Increases END by 5
+- Source: Treasure - High Wall of Lothric
 
 # Emblem of Vitality
-- Increases Vitality by 5
+- Weight: 0
+- Increases VIT by 5
+- Source: Treasure - Undead Settlement
 
 # Lucky Coin
-- Increases Luck by 5
+- Weight: 1
+- Increases LCK by 5
+- Source: Treasure - Undead Settlement
+

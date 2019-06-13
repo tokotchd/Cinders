@@ -1,11 +1,11 @@
 ﻿#------------------------
-# Boss Changes
+# Boss Stats
 #------------------------
 - The HP values in brackets here are the HP after area scaling.
 - Absorption percentages are damage taken.
 
 # Iudex Gundyr
-- HP: 2000 [2000]
+- HP: 2000
 - Absorption: Standard:     1 (100%)
 - Absorption: Slash:        1 (100%)
 - Absorption: Strike:       1 (100%)
@@ -18,46 +18,46 @@
 - Affected by: Poison, Bleed, Frost
 
 # Vordt of the Boreal Valley
-- HP: 2000 [2400]
+- HP: 2500
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       1.05 (105%)
 - Absorption: Thrust:       0.8  (80%)
 - Absorption: Magic:        0.8  (80%)
-- Absorption: Fire:         1.15 (115%)
+- Absorption: Fire:         1.15 (100%)
 - Absorption: Lightning:    0.9  (90%)
-- Absorption: Dark:         1.15 (115%)
+- Absorption: Dark:         1.15 (100%)
 - Poise:                    200
 - Affected by: Poison, Bleed
 
-# Cursed Greatwood
-- HP: 4000 [5200]
-- Absorption: Standard:     1.4  (140%)
-- Absorption: Slash:        1.75 (175%)
-- Absorption: Strike:       1.2  (120%)
-- Absorption: Thrust:       1.75 (175%)
-- Absorption: Magic:        1.2  (120%)
-- Absorption: Fire:         2.1  (210%)
-- Absorption: Lightning:    1.2  (120%)
-- Absorption: Dark:         1.2  (120%)
+# Curse-rotted Greatwood
+- HP: 5000
+- Absorption: Standard:     1    (100%)
+- Absorption: Slash:        1    (100%)
+- Absorption: Strike:       1    (100%)
+- Absorption: Thrust:       1    (100%)
+- Absorption: Magic:        1    (100%)
+- Absorption: Fire:         1.5  (150%)
+- Absorption: Lightning:    1    (100%)
+- Absorption: Dark:         0.8  (80%)
 - Poise:                    0
 - Affected by: Poison, Bleed, Frost
 
 # Crystal Sage
-- HP: 4000 [6400]
-- Absorption: Standard:     1.4  (140%)
-- Absorption: Slash:        1.4  (140%)
-- Absorption: Strike:       1.4  (140%)
-- Absorption: Thrust:       1.4  (140%)
-- Absorption: Magic:        0.75 (75%)
-- Absorption: Fire:         1    (100%)
-- Absorption: Lightning:    1    (100%)
-- Absorption: Dark:         1    (100%)
+- HP: 4000
+- Absorption: Standard:     1.2  (120%)
+- Absorption: Slash:        1.2  (120%)
+- Absorption: Strike:       1.2  (120%)
+- Absorption: Thrust:       1.2  (120%)
+- Absorption: Magic:        0.3  (30%)
+- Absorption: Fire:         0.8  (80%)
+- Absorption: Lightning:    0.8  (80%)
+- Absorption: Dark:         0.8  (80%)
 - Poise:                    0
 - Affected by: Poison, Bleed, Frost
 
 # Deacons of the Deep
-- HP: 3000 [4800]
+- HP: 4000
 - Fat Deacon HP: 1000
 - Tall Deacon HP: 800
 - Absorption: Standard:     1.2  (120%)
@@ -72,8 +72,8 @@
 - Affected by: Poison, Bleed, Frost
 
 # Abyss Watchers
-- Boss HP: 4000 [7600]
-- Add HP: 1000 [1900]
+- Boss HP: 1000, 5000
+- Add HP: 500
 - Absorption: Standard:     0.9 (90%)
 - Absorption: Slash:        0.9 (90%)
 - Absorption: Strike:       1.1 (110%)
@@ -86,7 +86,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # High Lord Wolnir
-- HP: 8000 [19360]
+- HP: 15000
 - Absorption: Standard:     0.8 (80%)
 - Absorption: Slash:        0.8 (80%)
 - Absorption: Strike:       0.8 (80%)
@@ -99,193 +99,190 @@
 - Affected by: Poison, Bleed, Frost
 
 # Old Demon King
-- HP: 4000 [12000]
+- HP: 8000
 - Absorption: Standard:     1   (100%)
 - Absorption: Slash:        1   (100%)
 - Absorption: Strike:       1   (100%)
 - Absorption: Thrust:       1.2 (120%)
 - Absorption: Magic:        1   (100%)
-- Absorption: Fire:         0.5 (50%)
+- Absorption: Fire:         0.3 (30%)
 - Absorption: Lightning:    1   (100%)
 - Absorption: Dark:         1.2 (120%)
 - Poise:                    170
 - Affected by: Poison, Bleed
 
 # Pontiff Sulyvahn
-- Boss HP: 4000 [10000]
+- Boss HP: 6000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1    (100%)
 - Absorption: Thrust:       1.2  (120%)
-- Absorption: Magic:        0.8  (80%)
-- Absorption: Fire:         0.8  (80%)
-- Absorption: Lightning:    0.8  (80%)
-- Absorption: Dark:         0.8  (80%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         0.5  (50%)
+- Absorption: Lightning:    0.5  (50%)
+- Absorption: Dark:         0.5  (50%)
 - Poise:                    150
 - Affected by: Poison, Bleed, Frost
 
 # Pontiff Sulyvahn (Clone)
-- HP: 2000 [5000]
+- HP: 1000
 - Absorption: Standard:     0.5  (50%)
 - Absorption: Slash:        0.5  (50%)
 - Absorption: Strike:       0.5  (50%)
 - Absorption: Thrust:       0.5  (50%)
-- Absorption: Magic:        0.8  (80%)
-- Absorption: Fire:         0.8  (80%)
-- Absorption: Lightning:    0.8  (80%)
-- Absorption: Dark:         0.8  (80%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         0.5  (50%)
+- Absorption: Lightning:    0.5  (50%)
+- Absorption: Dark:         0.5  (50%)
 - Poise:                    84
 - Affected by: Poison, Bleed, Frost
 
 # Aldrich, Devourer of Gods
-- HP: 5000 [15000]
+- HP: 8000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1.1  (110%)
 - Absorption: Strike:       0.8  (80%)
 - Absorption: Thrust:       1.1  (110%)
-- Absorption: Magic:        0.5  (50%)
-- Absorption: Fire:         1.15 (115%)
-- Absorption: Lightning:    1    (100%)
-- Absorption: Dark:         0.5  (50%)
+- Absorption: Magic:        0.3  (30%)
+- Absorption: Fire:         0.8  (80%)
+- Absorption: Lightning:    0.5  (50%)
+- Absorption: Dark:         0.3  (50%)
 - Poise:                    200
 - Affected by: Poison, Bleed, Frost
 
 # Yhorm the Giant
-- Increased damage dealt with normal attacks.
-- Reduced damage multiplier from head hits.
-- HP: 5000 [13500]
+- HP: 20000
 - Absorption: Standard:     0.9  (90%)
 - Absorption: Slash:        0.9  (90%)
 - Absorption: Strike:       1.15 (115%)
 - Absorption: Thrust:       0.9  (90%)
 - Absorption: Magic:        1    (100%)
-- Absorption: Fire:         0.5  (50%)
+- Absorption: Fire:         0.3  (30%)
 - Absorption: Lightning:    1.1  (110%)
 - Absorption: Dark:         1    (100%)
 - Poise:                    350
 - Affected by: Poison, Bleed, Frost
 
 # Dancer of the Boreal Valley
-- HP: 3000 [9000]
+- HP: 6000
 - Absorption: Standard:     0.9  (90%)
 - Absorption: Slash:        0.9  (90%)
 - Absorption: Strike:       0.8  (80%)
 - Absorption: Thrust:       1    (100%)
-- Absorption: Magic:        0.9  (90%)
-- Absorption: Fire:         0.9  (90%)
-- Absorption: Lightning:    0.9  (90%)
-- Absorption: Dark:         1.1  (110%)
+- Absorption: Magic:        0.6  (60%)
+- Absorption: Fire:         0.6  (60%)
+- Absorption: Lightning:    0.6  (60%)
+- Absorption: Dark:         0.8  (80%)
 - Poise:                    170
 - Affected by: Poison, Bleed
 
 # Oceiros, the Consumed King
-- HP: 4000 [12000]
+- HP: 8000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       0.8  (80%)
 - Absorption: Thrust:       1.1  (110%)
-- Absorption: Magic:        0.5  (50%)
-- Absorption: Fire:         1    (100%)
-- Absorption: Lightning:    1.2  (120%)
-- Absorption: Dark:         1    (100%)
+- Absorption: Magic:        0.3  (30%)
+- Absorption: Fire:         0.5  (50%)
+- Absorption: Lightning:    0.7  (70%)
+- Absorption: Dark:         0.5  (50%)
 - Poise:                    120
 - Affected by: Poison, Bleed, Frost
 
 # Dragonslayer Armour
-- HP: 4000 [12000]
+- HP: 10000
 - Absorption: Standard:     0.7 (70%)
 - Absorption: Slash:        0.7 (70%)
 - Absorption: Strike:       1   (100%)
 - Absorption: Thrust:       0.8 (80%)
-- Absorption: Magic:        1   (100%)
-- Absorption: Fire:         1   (100%)
-- Absorption: Lightning:    0.5 (50%)
-- Absorption: Dark:         0.5 (50%)
+- Absorption: Magic:        0.5 (50%)
+- Absorption: Fire:         0.5 (50%)
+- Absorption: Lightning:    0.3 (30%)
+- Absorption: Dark:         0.3 (30%)
 - Poise:                    300
 - Affected by: Poison, Bleed, Frost
 
 # Ancient Wyvern
-- Removed damage reduction on lower parts.
-- HP: 2000 [10000]
+- HP: 10000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       0.9  (90%)
 - Absorption: Thrust:       1    (100%)
-- Absorption: Magic:        1    (100%)
+- Absorption: Magic:        0.5  (50%)
 - Absorption: Fire:         0.5  (50%)
-- Absorption: Lightning:    1.2  (120%)
-- Absorption: Dark:         1    (100%)
+- Absorption: Lightning:    0.8  (80%)
+- Absorption: Dark:         0.5  (50%)
 - Poise:                    0
 - Affected by: Poison, Bleed, Frost
 
 # King of the Storm
-- HP: 500 [2500]
+- HP: 2000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       0.9  (90%)
 - Absorption: Thrust:       1    (100%)
-- Absorption: Magic:        1    (100%)
-- Absorption: Fire:         0.75 (75%)
-- Absorption: Lightning:    1.2  (120%)
-- Absorption: Dark:         1    (100%)
+- Absorption: Magic:        0.7  (70%)
+- Absorption: Fire:         0.4  (40%)
+- Absorption: Lightning:    0.9  (90%)
+- Absorption: Dark:         0.7  (70%)
 - Poise:                    0
 - Affected by: Poison, Bleed, Frost
 
 # Nameless King
-- HP: 3000 [15000]
+- HP: 16000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       1    (100%)
 - Absorption: Thrust:       0.8  (80%)
-- Absorption: Magic:        1    (100%)
-- Absorption: Fire:         0.75 (75%)
-- Absorption: Lightning:    0.5  (50%)
-- Absorption: Dark:         1    (100%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         0.4  (40%)
+- Absorption: Lightning:    0.3  (30%)
+- Absorption: Dark:         0.5  (50%)
 - Poise:                    215
 - Affected by: Poison, Bleed, Frost
 
 # Champion Gundyr
-- HP: 3000 [12000]
-- Absorption: Standard:     1    (100%)
-- Absorption: Slash:        1    (100%)
-- Absorption: Strike:       1    (100%)
-- Absorption: Thrust:       1    (100%)
-- Absorption: Magic:        1    (100%)
-- Absorption: Fire:         1    (100%)
-- Absorption: Lightning:    1    (100%)
-- Absorption: Dark:         1    (100%)
+- HP: 12000
+- Absorption: Standard:     0.8   (80%)
+- Absorption: Slash:        0.8   (80%)
+- Absorption: Strike:       1     (100%)
+- Absorption: Thrust:       0.8   (80%)
+- Absorption: Magic:        0.6   (60%)
+- Absorption: Fire:         0.6   (60%)
+- Absorption: Lightning:    0.6   (60%)
+- Absorption: Dark:         0.6   (60%)
 - Poise:                    185
 - Affected by: Poison, Bleed, Frost
 
 # Lorian, Elder Prince
-- Phase 1 HP: 2000 [10000]
-- Phase 2 HP: 2000 [10000]
+- Phase 1 HP: 4000
+- Phase 2 HP: 4000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       1    (100%)
 - Absorption: Thrust:       0.8  (80%)
-- Absorption: Magic:        1    (100%)
-- Absorption: Fire:         1    (100%)
-- Absorption: Lightning:    1    (100%)
+- Absorption: Magic:        0.3  (30%)
+- Absorption: Fire:         0.3  (30%)
+- Absorption: Lightning:    0.5  (50%)
 - Absorption: Dark:         0.5  (50%)
 - Poise:                    210
 - Affected by: Poison, Bleed, Frost
 
 # Lothric, Younger Prince
-- HP: 1000 [5000]
+- HP: 10000
 - Absorption: Standard:     1.2  (120%)
 - Absorption: Slash:        1.2  (120%)
 - Absorption: Strike:       1.2  (120%)
 - Absorption: Thrust:       1.2  (120%)
-- Absorption: Magic:        0.5  (50%)
-- Absorption: Fire:         1    (100%)
-- Absorption: Lightning:    1    (100%)
-- Absorption: Dark:         0.5  (50%)
+- Absorption: Magic:        0.3  (50%)
+- Absorption: Fire:         0.5  (100%)
+- Absorption: Lightning:    0.5  (100%)
+- Absorption: Dark:         0.3  (50%)
 - Poise:                    0
 - Affected by: Poison, Bleed, Frost
 
 # Soul of Cinder
-- HP: 3000 [15000]
+- HP: 30000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1    (100%)
@@ -298,33 +295,33 @@
 - Affected by: Poison, Bleed, Frost
 
 # Sister Friede
-- HP: 2000 [8000]
+- HP: 3000, 6000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1    (100%)
 - Absorption: Thrust:       1.1  (110%)
-- Absorption: Magic:        0.75 (75%)
-- Absorption: Fire:         0.75 (75%)
-- Absorption: Lightning:    0.75 (75%)
-- Absorption: Dark:         0.75 (75%)
+- Absorption: Magic:        0.3  (30%)
+- Absorption: Fire:         0.5  (50%)
+- Absorption: Lightning:    0.5  (50%)
+- Absorption: Dark:         0.3  (30%)
 - Poise:                    100
 - Affected by: Poison, Bleed
 
 # Father Ariandel
-- HP: 1000 [4000]
+- HP: 4000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       0.8  (80%)
 - Absorption: Thrust:       0.8  (80%)
-- Absorption: Magic:        1.2  (120%)
-- Absorption: Fire:         0.8  (80%)
-- Absorption: Lightning:    1.2  (120%)
-- Absorption: Dark:         1.2  (120%)
+- Absorption: Magic:        0.8  (80%)
+- Absorption: Fire:         0.3  (30%)
+- Absorption: Lightning:    0.8  (80%)
+- Absorption: Dark:         0.8  (80%)
 - Poise:                    250
 - Affected by: Poison, Bleed, Frost
 
 # Gravetender Greatwolf
-- HP: 1000 [4000]
+- HP: 4000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1    (100%)
@@ -337,55 +334,68 @@
 - Affected by: Poison, Bleed, Frost
 
 # Demon Princes
-- HP: 2000 [8000]
+- HP: 5000, 10000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1.2  (120%)
 - Absorption: Thrust:       1    (100%)
-- Absorption: Magic:        0.9  (90%)
-- Absorption: Fire:         0.5  (50%)
-- Absorption: Lightning:    0.9  (90%)
-- Absorption: Dark:         0.9  (90%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         0.3  (30%)
+- Absorption: Lightning:    0.5  (50%)
+- Absorption: Dark:         0.5  (50%)
 - Affected by: Poison, Bleed
 
 # Darkeater Midir
-- HP: 4000 [20000]
+- HP: 30000
 - Absorption: Standard:     0.5  (50%)
 - Absorption: Slash:        0.5  (50%)
 - Absorption: Strike:       0.5  (50%)
 - Absorption: Thrust:       0.5  (50%)
-- Absorption: Magic:        0.75 (75%)
-- Absorption: Fire:         0.5  (50%)
-- Absorption: Lightning:    1    (100%)
-- Absorption: Dark:         0.5  (50%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         0.3  (30%)
+- Absorption: Lightning:    0.8  (80%)
+- Absorption: Dark:         0.3  (30%)
 - Poise:                    0
 - Affected by: Poison, Bleed, Frost
 
 # Slave Knight Gael
-- HP: 3000 [15000]
+- HP: 10000, 20000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
-- Absorption: Strike:       1    (100%)
+- Absorption: Strike:       0.8  (80%)
 - Absorption: Thrust:       1    (100%)
-- Absorption: Magic:        1    (100%)
-- Absorption: Fire:         1    (100%)
-- Absorption: Lightning:    1    (100%)
-- Absorption: Dark:         1    (100%) / 0.5 (50%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         0.5  (50%)
+- Absorption: Lightning:    0.5  (50%)
+- Absorption: Dark:         0.5  (50%)
 - Poise:                    150
 - Affected by: Poison, Bleed, Frost
 
+#------------------------
+# Miniboss Stats
+#------------------------
 # Stray Demon
 - HP: 4000 [7600]
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       1.2  (120%)
 - Absorption: Thrust:       0.8  (80%)
-- Absorption: Magic:        1    (100%)
-- Absorption: Fire:         0.75 (75%)
-- Absorption: Lightning:    0.75 (75%)
-- Absorption: Dark:         1    (100%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         0.3  (30%)
+- Absorption: Lightning:    0.5  (50%)
+- Absorption: Dark:         0.5  (50%)
 - Poise:                    260
 - Affected by: Poison, Bleed
+
+# Demon
+- Absorption: Standard:     1  (100%)
+- Absorption: Slash:        1  (100%)
+- Absorption: Strike:       1  (100%)
+- Absorption: Thrust:       1  (100%)
+- Absorption: Magic:        0.5  (50%)
+- Absorption: Fire:         0.3  (30%)
+- Absorption: Lightning:    0.5  (50%)
+- Absorption: Dark:         0.5  (50%)
 
 #------------------------
 # Enemy Changes
@@ -590,3 +600,4 @@
 
 # Deep Acursed (Cathedral of the Deep)
 - Can drop Twinkling Titanite
+

@@ -19,15 +19,15 @@ Raw:
 - Reduces stat requirements by 50%
 
 Poison: 
-- Adds Poison aux of 20 (+0) to 60 (+10)
+- Adds Poison aux of 20 (+0) to 30 (+10). Differs for weapons with innate Poison.
 - Reduces base damage by 10%
 
 Blood:
-- Adds Bleed aux of 20 (+0) to 60 (+10)
+- Adds Bleed aux of 20 (+0) to 30 (+10). Differs for weapons with innate Bleed.
 - Reduces base damage by 10%
 
 Frost:
-- Adds Frost aux of 20 (+0) to 60 (+10)
+- Adds Frost aux of 20 (+0) to 30 (+10). Differs for weapons with innate Frost.
 - Reduces base damage by 10%
 
 Magic:  
@@ -1638,24 +1638,28 @@ Refined:
 # Sorcerer's Staff
 - Reinforcement: Titanite
 - Weight: 2
+- Max Spell Buff: 200
 - INT Requirement: 10
 - Can cast Sorceries.
 
 # Archdeacon's Great Staff
 - Reinforcement: Twinkling Titanite
 - Weight: 2.5
+- Max Spell Buff: 300
 - FTH Requirement: 40
 - Can cast Sorceries.
 
 # Court Sorcerer's Staff
 - Reinforcement: Twinkling Titanite
 - Weight: 3
-- INT Requirement: 36
+- Max Spell Buff: 300
+- INT Requirement: 30
 - Can cast Sorceries.
 
 # Heretic's Staff
 - Reinforcement: Titanite
 - Weight: 3
+- Max Spell Buff: 200
 - INT Requirement: 12
 - FTH Requirement: 12
 - Can cast Sorceries, Pyromancies and Miracles.
@@ -1663,6 +1667,7 @@ Refined:
 # Izalith Staff
 - Reinforcement: Twinkling Titanite
 - Weight: 3
+- Max Spell Buff: 300
 - INT Requirement: 25
 - FTH Requirement: 25
 - Can cast Sorceries and Pyromancies.
@@ -1670,18 +1675,22 @@ Refined:
 # Man-grub Staff
 - Reinforcement: Twinkling Titanite
 - Weight: 3
+- Max Spell Buff: 300
 - INT Requirement: 36
 - Can cast Sorceries.
+- Scales with LCK.
 
 # Mendicant's Staff
 - Reinforcement: Titanite
 - Weight: 2.5
+- Max Spell Buff: 280
 - INT Requirement: 40
 - Can cast Sorceries.
 
 # Murky Longstaff
 - Reinforcement: Titanite
 - Weight: 3
+- Max Spell Buff: 260
 - INT Requirement: 24
 - FTH Requirement: 24
 - Can cast Sorceries.
@@ -1689,6 +1698,7 @@ Refined:
 # Preacher's Right Arm
 - Reinforcement: Twinkling Titanite
 - Weight: 3
+- Max Spell Buff: 175
 - STR Requirement: 12
 - FTH Requirement: 28
 - Can cast Sorceries.
@@ -1696,12 +1706,14 @@ Refined:
 # Sage's Crystal Staff
 - Reinforcement: Twinkling Titanite
 - Weight: 2.5
-- INT Requirement: 50
+- Max Spell Buff: 300
+- INT Requirement: 40
 - Can cast Sorceries.
 
 # Storyteller's Staff
 - Reinforcement: Titanite
 - Weight: 2.5
+- Max Spell Buff: 250
 - INT Requirement: 20
 - Can cast Sorceries.
 - Effect: Increases Poison resistance
@@ -1709,6 +1721,7 @@ Refined:
 # Witchtree Branch
 - Reinforcement: Twinkling Titanite
 - Weight: 2
+- Max Spell Buff: 220
 - INT Requirement: 16
 - Can cast Sorceries.
 - Effect: Increases casting speed
@@ -1716,6 +1729,7 @@ Refined:
 # Veiled Staff
 - Reinforcement: Titanite
 - Weight: 2
+- Max Spell Buff: 200
 - INT Requirement: 10
 - Can cast Sorceries.
 
@@ -1725,37 +1739,43 @@ Refined:
 # Talisman
 - Reinforcement: Titanite
 - Weight: 0.5
+- Max Spell Buff: 200
 - FTH Requirement: 10
 - Can cast Miracles.
 
 # Canvas Talisman
 - Reinforcement: Titanite
 - Weight: 0.5
+- Max Spell Buff: 250
 - FTH Requirement: 20
 - Can cast Miracles.
 
 # Saint's Talisman
 - Reinforcement: Titanite
 - Weight: 0.5
+- Max Spell Buff: 280
 - FTH Requirement: 28
 - Can cast Miracles.
 
 # Sunless Talisman
 - Reinforcement: Twinkling Titanite
 - Weight: 0.5
+- Max Spell Buff: 340
 - FTH Requirement: 38
 - Can cast Miracles.
 
 # Sunlight Talisman
 - Reinforcement: Twinkling Titanite
 - Weight: 0.5
-- FTH Requirement: 36
+- Max Spell Buff: 
+- FTH Requirement: 300
 - Effect: Increases damage of miracles by 5%
-- Can cast Miracles.
+- Can cast Miracles. 
 
 # White Hair Talisman
 - Reinforcement: Twinkling Titanite
 - Weight: 0.5
+- Max Spell Buff: 300
 - INT Requirement: 26
 - FTH Requirement: 26
 - Can cast Miracles and Pyromancies.
@@ -1763,27 +1783,31 @@ Refined:
 # Veiled Talisman
 - Reinforcement: Titanite
 - Weight: 0.5
+- Max Spell Buff: 200
 - FTH Requirement: 10
 - Can cast Miracles.
 
 #------------------------
 # Chimes
 #------------------------
-# Priest's Chime
-- Reinforcement: Titanite
-- Weight: 0.5
-- FTH Requirement: 10
-- Can cast Miracles.
-
 # Cleric's Sacred Chime
 - Reinforcement: Titanite
 - Weight: 0.5
+- Max Spell Buff: 200
+- FTH Requirement: 10
+- Can cast Miracles.
+
+# Priest's Chime
+- Reinforcement: Titanite
+- Weight: 0.5
+- Max Spell Buff: 250
 - FTH Requirement: 20
 - Can cast Miracles.
 
 # Saint-tree Bellvine
 - Reinforcement: Twinkling Titanite
 - Weight: 0.5
+- Max Spell Buff: 220
 - FTH Requirement: 16
 - Can cast Miracles.
 - Effect: Increases casting speed
@@ -1791,27 +1815,31 @@ Refined:
 # Caitha's Chime 
 - Reinforcement: Twinkling Titanite
 - Weight: 0.5
-- INT Requirement: 50
-- FTH Requirement: 50
+- Max Spell Buff: 340
+- INT Requirement: 30
+- FTH Requirement: 30
 - Can cast Miracles.
 
 # Crystal Chime
 - Reinforcement: Twinkling Titanite
 - Weight: 0.5
-- INT Requirement: 40
-- FTH Requirement: 40
+- Max Spell Buff: 400
+- INT Requirement: 50
+- FTH Requirement: 50
 - Can cast Sorceries and Miracles.
 
 # Yorshka's Chime
 - Reinforcement: Twinkling Titanite
 - Weight: 0.5
-- FTH Requirement: 50
+- Max Spell Buff: 300
+- FTH Requirement: 30
 - Can cast Miracles.
 - Effect: Reduces Miracle FP cost by 10%
 
 # Sacred Chime of Filianore
 - Reinforcement: Twinkling Titanite
 - Weight: 0.5
+- Max Spell Buff: 300
 - FTH Requirement: 40
 - Can cast Miracles.
 
@@ -1821,24 +1849,28 @@ Refined:
 # Pyromancy Flame
 - Reinforcement: Fire Seed
 - Weight: 0
+- Max Spell Buff: 300
 - Can cast Pyromancies.
 - Scales Spell Buff with INT and FTH
 
 # Pyromancer's Parting Flame
 - Reinforcement: Fire Seed
 - Weight: 0
+- Max Spell Buff: 300
 - Can cast Pyromancies.
 - Scales Spell Buff with INT and FTH
 
 # Veiled Flame
 - Reinforcement: Fire Seed
 - Weight: 0
+- Max Spell Buff: 300
 - Can cast Pyromancies.
 - Scales Spell Buff with INT and FTH
 
 # Black Flame
 - Reinforcement: Fire Seed
 - Weight: 0
+- Max Spell Buff: 300
 - Can cast Pyromancies.
 - Scales Spell Buff with INT and FTH
 - Effect: boosts Dark pyromancies by 10%
@@ -1846,12 +1878,14 @@ Refined:
 # Holy Flame
 - Reinforcement: Fire Seed
 - Weight: 0
+- Max Spell Buff: 300
 - Can cast Pyromancies.
 - Alters Spell Buff with FTH
 
 # Sorcerous Flame
 - Reinforcement: Fire Seed
 - Weight: 0
+- Max Spell Buff: 300
 - Can cast Pyromancies.
 - Alters Spell Buff with INT
 

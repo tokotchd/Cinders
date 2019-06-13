@@ -19,17 +19,17 @@ After placing the Coiled Sword you may warp to:
 - Removed Dancer boss bonfire.
 - Removed Oceiros boss bonfire.
 - Added Castle Entrance bonfire, in the courtyard between Vordt and Dancer.
-- Added Ancient Wyvern in Tower on the Wall bonfire area.
+- Added Boreal Outrider Knight in Tower on the Wall bonfire area.
 - Added three Hollow Soldiers to starting rampart after first bonfire.
 - Added Lothric Knight in transition passage to Dragon courtyard.
 - Added Mimic to mimic room, drops 1 Cinders.
 - Added corpse to mimic room, holds 1 Ember.
 - Added Winged Knight to rooftop that leads to courtyard.
 - Added Hollow Crossbowman to rooftop overlooking courtyard.
-- Added Pus of Man to lower platform overlooking courtyard.
-- Added Pus of Man in courtyard preceding elevator loop back.
 - Added Hollow Crossbowman to courtyard between Vordt and Dancer.
 - Added Winged Knight to courtyard between Vordt and Dancer.
+- Added Lothric Knight.
+- Added Hollow Crossbowman.
 
 #---------------------------------
 # Undead Settlement - m31
@@ -41,7 +41,6 @@ After placing the Coiled Sword you may warp to:
 - Added Cathedral Evangelist.
 - Added Cage Spider.
 - Added Cage Spider.
-- Added Boreal Outrider Knight.
 - Added Boreal Outrider Knight.
 
 #---------------------------------
@@ -71,10 +70,10 @@ After placing the Coiled Sword you may warp to:
 #---------------------------------
 - Removed Deacons of the Deep boss bonfire.
 - Moved Cathedral of the Deep bonfire closer to the Deacons
-- Added Deep Acursed
-- Added Deep Acursed
-- Added Deep Acursed
-- Added Deep Acursed
+- Added Deep Accursed.
+- Added Deep Accursed.
+- Added Deep Accursed.
+- Added Cathedral Knight.
 
 #---------------------------------
 # Catacombs of Carthus - m38
@@ -123,29 +122,50 @@ After placing the Coiled Sword you may warp to:
 - Removed Central Irithyll bonfire.
 - Removed Water Reserve bonfire.
 - Removed Irithyll of the Boreal Valley bonfire.
-- Added Sulyvahn's Beast - Can drop Twinkling Titanite.
-- Added Sulyvahn's Beast - Can drop Twinkling Titanite.
-- Added Sulyvahn's Beast - Can drop Twinkling Titanite.
+- Added Sulyvahn's Beast
+- Added Sulyvahn's Beast
+- Added Sulyvahn's Beast
 - Added Silver Knight (Greatbow)
 - Added Silver Knight (Greatbow)
 - Added Silver Knight (Greatbow)
 - Added Silver Knight (Greatbow)
 - Added Silver Knight (Greatbow)
-- Added Silver Knight (Greatbow)
-- Added Silver Knight (Greatbow)
-- Added Silver Knight (Greatbow)
-- Added Silver Knight (Greatbow)
-
-
+- Added Pontiff Knight.
+- Added Pontiff Knight.
+- Added Irithyll Fire Witch.
+- Added Giant Slave.
+ 
 #---------------------------------
 # Anor Londo - m37
 #---------------------------------
 - Removed Aldrich boss bonfire.
-- Added Deep Acursed - Can drop Twinkling Titanite
+- Added Deep Acursed
 
 #---------------------------------
 # Irithyll Dungeon - m39
 #---------------------------------
+- Added Infested Corpse.
+- Added Infested Corpse.
+- Added Wretch.
+- Added Wretch.
+- Added Wretch.
+- Added Lycanthrope.
+- Added Lycanthrope.
+- Added Giant Rat.
+- Added Rat.
+- Added Rat.
+- Removed Jailers from a room on the right-side of the dungeon.
+- Removed the Jailers from the lower level of the dungeon.
+- Added Giant Rat.
+- Added Giant Rat.
+- Added Giant Rat.
+- Added Rat.
+- Added Rat.
+- Added Rat.
+- Added Rat.
+- Added Rat.
+- Added Rat.
+- Added Rat.
 
 #---------------------------------
 # Profaned Capital - m39
@@ -170,7 +190,7 @@ After placing the Coiled Sword you may warp to:
 #---------------------------------
 # Grand Archives - m34_01
 #---------------------------------
-- Grand Archives bonfire moved close to Twin Princes. Renamed to Throne of Lothric
+- Grand Archives bonfire moved close to Twin Princes. Renamed to Lothric's Throne
 - Added Boreal Outrider Knight.
 - Added Boreal Outrider Knight.
 - Added Boreal Outrider Knight.
@@ -205,6 +225,7 @@ After placing the Coiled Sword you may warp to:
 #---------------------------------
 # Painted World of Ariandel - m45
 #---------------------------------
+- Moved Corvian Knight by the gate in the village up onto the higher path.
 
 #---------------------------------
 # Dreg Heap - m50

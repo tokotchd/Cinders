@@ -63,80 +63,12 @@
 - Curse Resist Scale: {1:50, 25:75, 50:100, 75:150, 99:200}
 
 #------------------------
-# Scorched Contract
+# Covenants
 #------------------------
-- Implemented a Scorched Contract challenge option. 
-- Receive the Scorched Contract from Iudex Gundyr and activate it to start the challenge. 
-- Each boss will apply a negative debuff after their defeat.
-
-Vordt: 
-- Reduces base Frost resist by 100%.
-
-Curse-rotted Greatwood:
-- Reduces base Poison resist by 100%.
- 
-Crystal Sage:
-- Increases sorcery spell FP cost by 100%.
-
-Deacons of the Deep: 
-- Killing enemies applies a 15 second debuff on the player, reducing elemental absorption by 100%.
-
-High Lord Wolnir: 
-- Reduces base Bleed resist by 100%.
-
-Old Demon King: 
-- Reduces base Fire defence by 100%.
-
-Pontiff Sulyvahn: 
-- Reduces base Magic defence by 100%.
- 
-Dancer: 
-- Increases weapon stamina costs by 100%.
-
-Oceiros: 
-- Reduces base Curse resist by 100%.
-
-Dragonslayer Armour: 
-- Reduces base Physical defence by 100%.
-
-Champion Gundyr: 
-- Reduces estus effectiveness by 50%.
-
-Ancient Wyvern:
-- Reduces base Lightning defence by 100%.
-
-Nameless King: 
-- Increases miracle spell FP cost by 100%.
- 
-Abyss Watchers: 
-- Killing enemies applies a 15 second debuff on the player, reducing physical absorption by 100%.
-
-Aldrich: 
-- Reduces soul gain by 25%.
-
-Yhorm the Giant: 
-- Killing enemies applies a 15 second debuff on the player, dealing 1% HP damage.
-
-Lothric Princes: 
-- Killing enemies applies a 15 second debuff on the player, dealing 5% FP damage.
- 
-Sister Friede:
-- Reduces base Dark defence by 100%.
-
-Gravetender Greatwolf:
-- Reduces equip load by 25%.
- 
-Demon Prince: 
-- Increases pyromancy spell FP cost by 100%.
-
-Halflight:
-- Increases weapon skill FP cost by 100%.
-
-Darkeater Midir: 
-- Reduces absorption by 25%.
-
-Slave Knight Gael:
-- Reduces damage by 50% whilst below 50% HP.
+# Company of Champions
+- Whilst worn, allows enemies to drop Cinders. These can be exchanged for boss souls at Ludleth, for random items from the crows, or used for a 100% HP and FP restore.
+- Drop chance ranges from 1% from weak enemies like Hollows up to 5% for tough enemies such as the Boreal Outrider Knights. Your Luck stat will affect this chance.
+- Bosses will always drop 1 Cinder when killed whilst in the Company of Champions.
 
 #------------------------
 # Area Scaling

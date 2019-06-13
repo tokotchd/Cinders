@@ -5,44 +5,6 @@
 - All NG +1, 2 and 3 rings have been replaced with Titanite Slab
 
 #------------------------
-# Covenant
-#------------------------
-# Warriors of Sunlight
-- Rank 1 now grants Sunlight Shield
-- Rank 2 now grants Sunlight Straight Sword
-
-# Aldrich Faithful
-- Rank 2 now grants Archdeacon's Great Staff
-- Rank 1 now grants Archdeacon's Longstaff
-
-# Company of Champions
-- Enemies will begin to drop Cinders. The drop chance goes up the tougher the enemy is.
-
-#------------------------
-# NPC
-#------------------------
-# Black Hand Gotthard
-- Now drops Divine Blessing
-- Now drops Hidden Blessing
-
-# Isabella the Mad
-- Now drops Blight Ring
-
-# Court Sorcerer
-- Now drops Ring of Wisdom
-
-# Knight Slayer Tsorig
-- Now drops Fume Sword
-
-# Darkwraith (High Wall of Lothric)
-- Now drops Abyssal Greatsword
-
-# Crow
-- Medicant's Staff swap now grants a Titanite Slab
-- Eleonora swap now grants I'm sorry Carving
-- Prism Stone swamp now grants Blacksmith Hammer
-
-#------------------------
 # Nestling
 #------------------------
 The Nestling will now take Bone Fragments, Lizard Hides and Resonating Crystals. 
@@ -158,152 +120,389 @@ The player can give the Nestling these items an unlimited number of times.
 - Repeating Crossbow 
 
 #------------------------
+# NPC
+#------------------------
+# Black Hand Gotthard
+- Now drops Divine Blessing
+- Now drops Hidden Blessing
+
+# Isabella the Mad
+- Now drops Blight Ring
+
+# Court Sorcerer
+- Now drops Ring of Wisdom
+
+# Knight Slayer Tsorig
+- Now drops Fume Sword
+
+# Darkwraith (High Wall of Lothric)
+- Now drops Abyssal Greatsword
+
+# Crow
+- Medicant's Staff swap now grants a Titanite Slab
+- Eleonora swap now grants I'm sorry Carving
+- Prism Stone swamp now grants Blacksmith Hammer
+
+#------------------------
+# Covenant
+#------------------------
+# Warriors of Sunlight
+- Rank 1 grants Sunlight Shield
+- Rank 2 grants Sunlight Straight Sword
+
+# Mound-makers
+- Rank 1 grants Bloodlust
+- Rank 2 grants Warmth
+
+# Watchdogs of Farron
+- Rank 1 grants Old Wolf Curved Sword
+- Rank 2 grants Wolf Knight's Greatshield and Wolf Ring
+
+# Aldrich Faithful
+- Rank 2 grants Archdeacon's Great Staff
+- Rank 1 grants Archdeacon's Longstaff
+
+# Rosaria's Fingers
+- Rank 1 grants Obscuring Ring
+- Rank 2 grants Man-grub's Staff
+
+# Spears of the Church
+- Rank 1 grants Young Grass Dew
+- Rank 2 grants Divine Spear Fragment
+
+#------------------------
 # Vendors
 #------------------------
-# Lord of Cinders
-- The Titanite Slab added to the Shrine Handmaid is now unlimited.
-
 # Shrine Handmaid
-- Now sells Hand Axe
-- Now sells Short Bow
-- Now sells Claw
-- Now sells Caestus
-- Now sells Mace
-- Now sells Great Scythe
-- Now sells Spear
-- Now sells Pike
-- Now sells Rapier
-- Now sells Whip
-- Now sells Veiled Staff
-- Now sells Veiled Talisman
-- Now sells Veiled Flame
-- Now sells Pyromancy Flame
-- Now sells Oozing Pellets
-- Boss Souls can now be purchased at the Shrine Handmaid after defeating them. They cost 100,000 souls each.
-
-# Yoel/Yuria
-- Londor Braille Divine Tome now costs 5,000 souls
-- Now sells Deep Soul for 5,000 souls
-- Now sells Pursuing Soul for 6,000 souls
-
-# Orbeck
-
-# Cornyx
-- Now sells Singe for 5,000 souls
-
-# Irina
-- Now sells Lightning Bolt for 5,000 souls
-- Now sells Sparks for 15,000 souls
-- Now sells Nibble for 10,000 souls
-
-# Karla
-- Now sells Dark Edge for 5,000 souls
-- Now sells Deep Soul for 5,000 souls
-- Now sells Pursuing Soul for 6,000 souls
-- Now sells Abyssal Edge for 16,000 souls
-- Now sells Great Pursuing Soul for 15,000 souls
-- Now sells Abyssal Burst for 85,000 souls
+- Sells Dagger
+- Sells Buckler
+- Sells Scimitar
+- Sells Halberd
+- Sells Talisman
+- Sells Sorcerer's Staff
+- Sells Large Leather Shield
+- Sells Warrior's Round Shield
+- Sells Leather Shield
+- Sells Crimson Parma
+- Sells Torch
+- Sells Chain Helm
+- Sells Chain Armor
+- Sells Leather Gauntlets
+- Sells Chain Leggings
+- Sells Purple Moss Clump [6]
+- Sells Repair Powder
+- Sells Firebomb
+- Sells Homward Bone
+- Sells Prism Stone
+- Sells White Sign Soapstone [1]
+- Sells Dried Finger [1]
+- Sells Ember [3]
+- Sells Tower Key [1]
+- Sells Farron Dart [1]
+- Sells Soul Arrow [1]
+- Sells Heal Aid [1]
+- Sells Wood Arrow
+- Sells Wood Bolt
+- Sells Hand Axe
+- Sells Short Bow
+- Sells Claw
+- Sells Caestus
+- Sells Mace
+- Sells Great Scythe
+- Sells Spear
+- Sells Pike
+- Sells Rapier
+- Sells Whip
+- Sells Veiled Staff
+- Sells Veiled Talisman
+- Sells Veiled Flame
+- Sells Pyromancy Flame
+- Sells Oozing Pellets
 
 # Mortician's Ashes
-- Now adds Infusing Essence to the Shrine Handmaid, in unlimited quantity and costing 10,000 souls.
-- Now adds Degrading Essence to the Shrine Handmaid, in unlimied quantity and costing 10,000 souls.
+- Adds Alluring Skull
+- Adds Charcoal Pine Resin
+- Adds Human Pine Resin
+- Adds Charcoal Pine Bundle
+- Adds Ember [3]
+- Adds Grave Key [1]
+- Adds Infusing Essence
+- Adds Degrading Essence
 
 # Dreamchaser Ashes
-- Now adds Brightbugs to the Shrine Handmaid, in unlimited quantity and costing 35,000 souls. 
+- Adds Composite Bow
+- Adds Leather Armor
+- Adds Leather Gloves
+- Adds Leather Boots
+- Adds Life Ring
+- Adds Gold Pine Resin [3]
+- Adds Gold Pine Bundle [6]
+- Adds Rotten Pine Resin
+- Adds Black Bug Pellet
+- Adds Feather Arrow
+- Adds Titanite Shard
+- Adds Brightbug
+- Adds Standard Arrow
+- Adds Standard Bolt
+- Adds Fire Arrow
+- Adds Poison Arrow
 
 # Paladin's Ashes
+- Adds Morning Star
+- Adds Canvas Talisman
+- Adds Lloyd's Shield Ring
+- Adds Purple Moss Clump
+- Adds Blooming Purple Moss Clump
+- Adds Undead Hunter Charm
+- Adds Large Arrow
+- Adds Heavy Bolt
+- Adds Sniper Bolt
+- Adds Dragonslayer Greatarrow
 
 # Grave Warden's Ashes
+- Adds Kukri
+- Adds Carthus Rouge
+- Adds Yellow Bug Pellet
+- Adds Ember [3]
+- Adds Titanite Shard
+- Adds Splintering Bolt
 
 # Excrement-Covered Ashes
-- Now adds Cursed Pellets to the Shrine Handmaid.
+- Adds Blooming Purple Moss Clump
+- Adds Dung Pie
+- Adds Stalk Dung Pie
+- Adds Blue Bug Pellet
+- Adds Cursed Pellet
+- Adds Green Blossom
+- Adds Budding Green Blossom
 
 # Prisoner Chief's Ashes
+- Adds Rime-blue Moss Clump
+- Adds Pale Pine Resin
+- Adds Karla's Pointed Hat
+- Adds Karla's Coat
+- Adds Karla's Gloves
+- Adds Karla's Trousers
+- Adds Exploding Bolt
 
 # Xanthous Ashes
+- Adds Gold Pine Resin
+- Adds Gold Pine Bundle
+- Adds Young White Branch
+- Adds Xanthous Overcoat
+- Adds Xanthous Gloves
+- Adds Xanthous Trousers
+- Adds Moonlight Arrow
+- Adds Lightning Urn
+- Adds Lightning Bolt
+- Adds Dragonslayer Lightning Arrow
 
 # Hollow's Ashes
+- Adds Purging Stone
+- Adds Poison Throwing Knife
+- Adds Ring of Sacrifice
 
 # Easterner's Ashes
+- Adds Washing Pole
+- Adds Eastern Iron Shield
+- Adds Wood Grain Ring
+- Adds Eastern Helm
+- Adds Eastern Armor
+- Adds Eastern Gauntlets
+- Adds Eastern Leggings
+- Adds Dark Arrow
+- Adds Onislayer Greatarrow
+- Adds Large Titanite Shard
+- Adds Mossfruit
 
 # Dragon Chaser's Ashes
-- Now adds Fire Seeds to the Shrine Handmaid.
+- Adds Ember [6]
+- Adds Titanite Chunk
+- Adds Titanite Scale
+- Adds Twinkling Titanite
+- Adds Dragon Scale
+- Adds Fire Seed
 
 # Captain's Ashes
-- Now adds Siegbrau to the Shrine Handmaid.
+- Adds Millwood Greatarrow
+- Adds Millwood Knight Helm
+- Adds Millwood Knight Armor
+- Adds Millwood Knight Gauntlets
+- Adds Millwood Knight Leggings
+- Adds Siegbrau
+
+# Placing all the Lords of Cinder
+- Adds Titanite Slab
+
+# Orbeck
+- Sells Farron Dart for 1,000 souls
+- Sells Soul Arrow for 1,000 souls
+- Sells Great Soul Arrow for 3,000 souls
+- Sells Homing Soul Arrow for 2,000 souls
+- Sells Great Homing Soul Arrow for 4,000 souls
+- Sells Magic Weapon for 3,000 souls
+- Sells Magic Shield for 3,000 souls
+- Sells Soul Greatsword for 6,000 souls
+- Sells Farron Flashsword for 3,000 souls
+- Sells Spook for 2,000 souls
+- Sells Aural Decoy for 2,000 souls
+
+# Cornyx
+- Sells Fireball for 1,000 souls
+- Sells Fire Surge for 1,000 souls
+- Sells Great Combustion for 3,000 souls
+- Sells Flash Sweat for 3,000 souls
+- Sells Singe for 1,000 souls
+
+# Irina
+- Sells Heal for 1,000 souls
+- Sells Replenishment 1,000 for souls
+- Sells Caressing Tears for 2,000 souls
+- Sells Homeward for 3,000 souls
+- Sells Lightning Bolt for 1,000 souls
+- Sells Sparks for 6,000 souls
+- Sells Nibble for 1,000 souls
+
+# Karla
+- Sells Affinity for 18,000 souls
+- Sells Abyssal Edge for 6,000 souls
+- Sells Dark Edge for 3,000 souls
+- Sells Great Pursuing Soul for 4,000 souls
+- Sells Pursuing Soul for 2,000 souls
+- Sells Deep Soul for 5,000 souls
 
 #------------------------
 # Sorcery
 #------------------------
+# Any Scroll
+- Unlocks Pestilent Mist for 5,000 souls
+
 # Sage's Scroll
-- Now unlocks Soul Wave for 10,000 souls
+- Found in: Farron Keep
+- Unlocks Great Farron Dart for 2,000 souls
+- Unlocks Farron Hail for 5,000 souls
+- Unlocks Soul Wave for 6,000 souls
 
 # Golden Scroll
+- Found in: Farron Keep
+- Unlocks Hidden Weapon for 1,500 souls
+- Unlocks Hidden Body for 10,000 souls
+- Unlocks Repair for 8,000 souls
+- Unlocks Cast Light for 1,000 souls
+- Unlocks Twisted Wall of Light for 6,000 souls
 
 # Logan's Scroll
+- Found in: Profaned Capital - Court Sorcerer
+- Unlocks Homing Soulmass for 8,000 souls.
+- Unlocks Soul Spear for 20,000 souls.
 
 # Crystal Scroll
-- Now unlocks Soul Barrage for 85,000 souls
+- Found in: Grand Archives
+- Unlocks Homing Crystal Soulmass for 18,000 souls
+- Unlocks Crystal Soul Spear for 40,000 souls
+- Unlocks Crystal Magic Weapon for 15,000 souls
+- Unlocks Soul Barrage for 40,000 souls
 
 #------------------------
 # Pyromancy
 #------------------------
 # Great Swamp Pyromancy Tome
-- Now unlocks Seeds of Chaos for 15,000 souls.
+- Found in: Road of Sacrifices
+- Unlocks Fire Orb for 3,000 souls.
+- Unlocks Profuse Sweat for 2,000 souls.
+- Unlocks Bursting Fireball for 5,000 souls.
+- Unlocks Poison Mist for 2,000 souls.
+- Unlocks Seeds of Chaos for 6,000 souls.
 
 # Carthus Pyromancy Tome
+- Found in: Catacombs of Carthus
+- Unlocks Acid Surge for 6,000 souls.
+- Unlocks Carthus Flame Arc for 10,000 souls.
+- Unlocks Carthus Beacon for 8,000 souls.
 
 # Grave Warden Pyromancy Tome
+- Found in: Catacombs of Carthus
+- Unlocks Black Flame for 8,000 souls.
+- Unlocks Black Fire Orb for 6,000 souls.
 
 # Izalith Pyromancy Tome
-- Now unlocks Cataclysm for 85,000 souls
+- Found in: Smouldering Lake
+- Unlocks Great Chaos Fire Orb for 15,000 souls.
+- Unlocks Chaos Storm for 15,000 souls.
+- Unlocks Cataclysm for 60,000 souls
 
 # Quelana Pyromancy Tome
+- Found in: Smouldering Lake
+- Unlocks Fire Whip for 6,000 souls.
+- Unlocks Firestorm for 15,000 souls.
+- Unlocks Rapport for 10,000 souls.
 
 #------------------------
 # Miracles
 #------------------------
 # Braille Divine Tome of Carim
-- Now unlocks Way of White Corona for 25,000 souls
-- Now unlocks Wrath of the Gods for 60,000 souls
-
-# Londor Braille Divine Tome
-
-# Deep Braille Divine Tome
-- Now unlocks Ravenous Gnawing for 30,000 souls
-- Now unlocks Voracious Gnawing for 85,000 souls
+- Found in: Road of Sacrifices
+- Unlocks Med Heal for 4,000 souls
+- Unlocks Tears of Denial for 10,000 souls
+- Unlocks Force for 2,000 souls
+- Unlocks Way of White Corona for 4,000 souls
+- Unlocks Wrath of the Gods for 40,000 souls
 
 # Braille Divine Tome of Lothric
-- Now unlocks Bursting Halo for 85,000 souls
-- Now unlocks Sunlight Barrage for 85,000 souls
+- Found in: High Wall of Lothric
+- Unlocks Bountiful Light for 5,000 souls
+- Unlocks Magic Barrier for 5,000 souls
+- Unlocks Blessed Weapon for 8,000 souls
+
+# Londor Braille Divine Tome
+- Found in: Firelink Shrine - Yuria
+- Unlocks Vow of Silence for 15,000 souls
+- Unlocks Dark Blade for 15,000 souls
+- Unlocks Dead Again for 5,000 souls
+
+# Deep Braille Divine Tome
+- Found in: Cathedral of the Deep
+- Unlocks Deep Protection for 4,000 souls
+- Unlocks Gnaw for 2,000 souls
+- Unlocks Ravenous Gnawing for 12,000 souls
+- Unlocks Voracious Gnawing for 20,000 souls
 
 #------------------------
 # Transfusion
 #------------------------
+# Cinders
+- Can transfuse 5 Cinders into any boss soul after killing said boss. Costs 20,000 souls.
+
 # Soul of the Rotted Greatwood
+- Can transfuse into Arstor's Spear
+- Can transfuse into Hollowslayer Greatsword
 - Can transfuse into Hammer of the Great Tree
 - Can transfuse into Greatwood Remnants
 - Can transfuse into Greatwood Club
 
-# Soul of Boreal Valley Vordt 
+# Soul of Boreal Valley Vordt
+- Can transfuse Vordt's Great Hammer
+- Can transfuse Pontiff's Left Eye
 - Can transfuse into Snap Freeze
 
 # Soul of Aldrich
+- Can transfuse into Lifehunt Scythe
 - Can transfuse into Darkmoon Longbow
+- Can transfuse into Sword of Avowal
 
 # Soul of the Twin Princes
+- Can transfuse into Lorian's Greatsword
+- Can transfuse into Lothric's Holy Sword
 - Can transfuse into Lothric's Scythe
 - Can transfuse into Prince's Shield
 - Can transfuse into Elder Dragon Ring
 
 # Soul of Rosaria
+- Can transfuse into Bountiful Sunlight
 - Can transfuse into Longstaff of Rosaria
 
-# Soul of the Dark Sun
-- Can transfuse into Reversal Ring
-- Can transfuse into Sword of Avowal
-
 # Soul of Cinder
+- Can transfuse into Firelink Greatsword
 - Can transfuse into Firelink Dagger
 - Can transfuse into Firelink Spear
 - Can transfuse into Firelink Sword
@@ -313,50 +512,75 @@ The player can give the Nestling these items an unlimited number of times.
 - Can transfuse into Ring of Clarity
 
 # Soul of Demon
+- Can transfuse into Demon's Greataxe
+- Can transfuse into Demon's Fist
 - Can transfuse into Demon's Axe
 
 # Soul of a Stray Demon
+- Can transfuse into Boulder Heave
+- Can transfuse into Havel's Ring
 - Can transfuse into Demon's Great Hammer
 
+# Soul of High Lord Wolnir
+- Can transfuse into Wolnir's Holy Sword
+- Can transfuse into Black Serpent
+
 # Soul of Consumed King Oceiros
+- Can transfuse into Moonlight Greatsword
+- Can transfuse into White Dragon Breath
 - Can transfuse into Moonlight Sword
 - Can transfuse into Ring of Alacrity
 
 # Soul of Pontiff Sulyvahn
-- Can transfuse into Profaned Sword
+- Can transfuse into Greatsword of Judgment
+- Can transfuse into Profaned Greatsword
 
 # Soul of the Old Demon King
-- No longer transfuses into Chaos Bed Vestiges
+- Can transfuse into Old King's Great Hammer
 - Can transfuse into Seething Chaos
 
 # Soul of the Deacons
-- No longer transfuses into Deep Soul
+- Can transfuse into Cleric's Candlestick
 - Can transfuse into Deep Ring
 - Can transfuse into Archdeacon's Bident
 - Can transfuse into Holy Flame
 
 # Soul of the Nameless King
+- Can transfuse into Dragonslayer Swordspear
+- Can transfuse into Storm Curved Sword
+- Can transfuse into Lightning Storm
 - Can transfuse into Ring of the Sun
 - Can transfuse into Dragon's Grasp
+- Can transfuse into Sunlight Barrage
 
 # Soul of Yhorm the Giant
+- Can transfuse into Yhorm's Great Machete
+- Can transfuse into Yhorm's Greatshield
 - Can transfuse into Iron Grain Ring
 
 # Soul of Freide
+- Can transfuse into Friede's Great Scythe
+- Can transfuse into Rose of Ariandel
 - Can transfuse into Celestial Ring
 
 # Soul of the Demon Prince
-- No longer transfuses into Seething Chaos
+- Can transfuse into Demon's Scar
 - Can transfuse into Chaos Bed Vestiges
 - Can transfuse into Ring of Disparity
 
 # Soul of Slave Knight Gael
+- Can transfuse into Gael's Greatsword
+- Can transfuse into Repeating Crossbow
 - Can transfuse into Halo
 - Can transfuse into Vanquisher Ring
 - Can transfuse into Repeating Crossbow
+- Can transfuse into Bursting Halo
 
 # Soul of Midir
+- Can transfuse into Frayed Blade
+- Can transfuse into Old Moonlight
 - Can transfuse into Abyss Ring
+- Can transfuse into Abyssal Burst
 
 #------------------------
 # Cemetery of Ash
@@ -381,6 +605,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Green Blossom location is now Glaive
 - Longbow location now includes Inscribed Rune
 - Added Fire Seed to Binoculars location
+- Added Homing Soulmass to Ring of Sacrifice location
 
 #------------------------
 # Undead Settlement
@@ -403,6 +628,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Fading Soul location is now Battle Axe
 - Added Fire Seed to Wargod Wooden Shield location
 - Added Fire Seed to Flame Stoneplate Ring location
+- Added Force to Cleric Set location
 
 #------------------------
 # Road of Sacrifices
@@ -463,6 +689,8 @@ The player can give the Nestling these items an unlimited number of times.
 - Yellow Bug Pellet location is now Crypt Ring
 - Titanite Shard location is now Fire Seed
 - Large Titanite Shard location is now Fire Seed
+- Chaos Gem location is now Black Fire Orb
+- Added Dark Edge to Black Flame spell tool location
 
 #------------------------
 # Smouldering Lake
@@ -486,7 +714,6 @@ The player can give the Nestling these items an unlimited number of times.
 - Lightning Gem location is now Great Lightning Spear
 - Large Titanite Shard location is now Witchtree Limb
 - Deep Gem location is now Titanite Scale
-- Reversal Ring location is now Soul of the Dark Sun
 - Great Heal location is now Wretched Pendant
 - Rusted Gold Coin location is now Infusing Essence
 - Homeward Bone location is now Small Doll

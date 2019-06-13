@@ -483,14 +483,14 @@
 #----------------------------
 # Medium #3 (15 - 19.9)
 #----------------------------
-# Black Set 
+# Black Set
 - Weight: 16
 - Poise: 10 [1,5,1,3]
-- Head Effect: Grants 1 Attunement Slot
-- Body Effect: Grants 1 Attunement Slot
-- Arms Effect: Grants 1 Attunement Slot
-- Legs Effect: Grants 1 Attunement Slot
-- Set Effect: Grants 1 Attunement Slot
+- Head Effect: Grants 1 FP per second
+- Body Effect: Grants 1 FP per second
+- Arms Effect: Grants 1 FP per second
+- Legs Effect: Grants 1 FP per second
+- Set Effect: Grants 1 FP per second
 
 # Dancer Set
 - Weight: 23
