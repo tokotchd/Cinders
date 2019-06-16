@@ -1733,6 +1733,14 @@ Refined:
 - INT Requirement: 10
 - Can cast Sorceries.
 
+# Darkmoon Ritual Staff
+- Reinforcement: Titanite Scale
+- Weight: 6
+- Max Spell Buff: 300
+- INT Requirement: 30
+- Can cast Miracles.
+- Scales Spell Buff with INT
+
 #------------------------
 # Talismans
 #------------------------
@@ -1843,6 +1851,14 @@ Refined:
 - FTH Requirement: 40
 - Can cast Miracles.
 
+# Jester's Talisman
+- Reinforcement: Twinkling Titanite
+- Weight: 1
+- Max Spell Buff: 300
+- FTH Requirement: 10
+- Can cast Miracles.
+- Scales Spell Buff with LCK
+
 #------------------------
 # Pyromancy Flames
 #------------------------
@@ -1888,6 +1904,20 @@ Refined:
 - Max Spell Buff: 300
 - Can cast Pyromancies.
 - Alters Spell Buff with INT
+
+# Fool's Flame
+- Reinforcement: Fire Seed
+- Weight: 0
+- Max Spell Buff: 300
+- Can cast Pyromancies.
+- Alters Spell Buff with LCK
+
+# Petrified Flame
+- Reinforcement: Fire Seed
+- Weight: 8
+- Max Spell Buff: 300
+- Can cast Pyromancies.
+- Alters Spell Buff with STR
 
 #------------------------
 # Arrows

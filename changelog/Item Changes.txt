@@ -218,6 +218,14 @@ The player can give the Nestling these items an unlimited number of times.
 - Sells Veiled Flame
 - Sells Pyromancy Flame
 - Sells Oozing Pellets
+- Sells Fire Stone
+- Sells Magic Stone
+- Sells Lightning Stone
+- Sells Dark Stone
+- Sells Poison Stone
+- Sells Bleed Stone
+- Sells Frost Stone
+- Sells Blessed Stone
 
 # Mortician's Ashes
 - Adds Alluring Skull
@@ -246,6 +254,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Adds Standard Bolt
 - Adds Fire Arrow
 - Adds Poison Arrow
+- Adds Green Blossom
 
 # Paladin's Ashes
 - Adds Morning Star
@@ -273,8 +282,8 @@ The player can give the Nestling these items an unlimited number of times.
 - Adds Stalk Dung Pie
 - Adds Blue Bug Pellet
 - Adds Cursed Pellet
-- Adds Green Blossom
 - Adds Budding Green Blossom
+- Adds Jester's Talisman
 
 # Prisoner Chief's Ashes
 - Adds Rime-blue Moss Clump
@@ -333,6 +342,8 @@ The player can give the Nestling these items an unlimited number of times.
 
 # Placing all the Lords of Cinder
 - Adds Titanite Slab
+- Adds Divine Blessing
+- Adds Hidden Blessing
 
 # Orbeck
 - Sells Farron Dart for 1,000 souls
@@ -489,6 +500,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Can transfuse into Lifehunt Scythe
 - Can transfuse into Darkmoon Longbow
 - Can transfuse into Sword of Avowal
+- Can transfuse into Darkmoon Ritual Staff
 
 # Soul of the Twin Princes
 - Can transfuse into Lorian's Greatsword
@@ -524,6 +536,7 @@ The player can give the Nestling these items an unlimited number of times.
 # Soul of High Lord Wolnir
 - Can transfuse into Wolnir's Holy Sword
 - Can transfuse into Black Serpent
+- Can transfuse into Fool's Flame
 
 # Soul of Consumed King Oceiros
 - Can transfuse into Moonlight Greatsword
@@ -538,6 +551,7 @@ The player can give the Nestling these items an unlimited number of times.
 # Soul of the Old Demon King
 - Can transfuse into Old King's Great Hammer
 - Can transfuse into Seething Chaos
+- Can transfuse into Petrified Flame
 
 # Soul of the Deacons
 - Can transfuse into Cleric's Candlestick
@@ -599,8 +613,8 @@ The player can give the Nestling these items an unlimited number of times.
 - Undead Hunter Charm location is now Oozing Pellets
 - Estus Shard location is now Green Tearstone Ring
 - Green Blossom location is now Titanite Shard
-- Throwing Knife location is now Titanite Shard
-- Throwing Knife location is now Titanite Shard
+- Throwing Knife location is now Titanite Scale
+- Throwing Knife location is now Titanite Scale
 - Titanite Shard location is now Banner of Tenacity
 - Green Blossom location is now Glaive
 - Longbow location now includes Inscribed Rune
@@ -668,7 +682,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Crest Shield location is now Estus Shard
 - Ember location is now Crest Shield
 - Lloyd's Sword Ring location is now Ember
-- Saint Bident location is now Poisonbite Ring
+- Saint Bident location is now Oak Crossbow
 - Fading Soul location is now Titanite Shard
 - Fading Soul location is now Oozing Pellets
 - Titanite Shard location is now Dragonrider Bow
@@ -685,7 +699,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Grave Warden Pyromancy Tome location is now Unholy Remains
 - Ember location is now Grave Warden Pyromancy Tome
 - Titanite Shard location is now Bone Rapier
-- Carthus Rouge location is now Dark Pyromancy Flame
+- Carthus Rouge location is now Black Flame (spell tool)
 - Yellow Bug Pellet location is now Crypt Ring
 - Titanite Shard location is now Fire Seed
 - Large Titanite Shard location is now Fire Seed
@@ -733,6 +747,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Old Cell Key location is now Jailer's Key Ring
 - Fading Soul location is now Fire Seed
 - Large Titanite Shard location is now Fire Seed
+- Soul of a Weary Warrior location is now Poisonbite Ring
 
 #------------------------
 # Profaned Capital
@@ -745,6 +760,7 @@ The player can give the Nestling these items an unlimited number of times.
 - Shriving Stone location is now Grotto Set
 - Profaned Coal location is now Dark Ember
 - Rusted Coin location is now Fire Seed
+- Large Soul of a Weary Warrior is now Jester's Talisman
 
 #------------------------
 # Anor Londo
@@ -828,14 +844,10 @@ The player can give the Nestling these items an unlimited number of times.
 - Soul of a Weary Warrior locations are now Soul of an Unknown Traveler
 - Soul of a Crestfallen Knight locations are now Soul of a Nameless Soldier
 - Large Soul of a Weary Warrior locations are now Large Soul of an Unknown Traveler
-- Fading Soul location is now Fire Seed
-- Fading Soul location is now Anri's Straight Sword
 
 #------------------------
 # The Ringed City
 #------------------------
 - Lightning Arrow location is now Titanite Slab
 - Havel's Ring+3 location is now Titanite Slab
-- Fading Soul location is now Fire Seed
-- Fading Soul location is now Darkdrift
-- Fading Soul location is now Sunless Talisman
+

@@ -113,7 +113,7 @@
 # Poisonbite Ring
 - Weight: 1
 - Increases Poison (and Toxic) resistance by 90
-- Source: Treasure - Cathedral of the Deep
+- Source: Treasure - Irithyll Dungeon
 
 # Cursebite Ring
 - Weight: 1
@@ -340,7 +340,7 @@
 
 # Calamity Ring
 - Weight: 1
-- Increases physical damage by 15% but wearer loses 0.5% HP a second.
+- Increases physical damage by 15% but wearer loses 1% HP a second.
 - Source: Treasure - Archdragon Peak
 
 # Farron Ring
@@ -489,17 +489,17 @@
 
 # Ring of Woe
 - Weight: 1
-- Boosts stamina recovery by 30 but wearer loses 0.5% HP a second.
+- Boosts stamina recovery by 30 but wearer loses 1% HP a second.
 - Source: Treasure - Anor Londo
 
 # Ring of Adversity
 - Weight: 1
-- Grants 4 FP every second but wearer loses 0.5% HP a second.
+- Grants 4 FP every second but wearer loses 1% HP a second.
 - Source: Treasure - Consumed King's Garden
 
 # Ring of Catastrophe
 - Weight: 1
-- Boosts elemental spell power by 15% but wearer loses 0.5% HP a second.
+- Boosts elemental spell power by 15% but wearer loses 1% HP a second.
 - Source: Treasure - Grand Archives
 
 # Demonsbane Ring

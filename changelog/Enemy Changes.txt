@@ -18,7 +18,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Vordt of the Boreal Valley
-- HP: 2500
+- HP: 1500
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       1.05 (105%)
@@ -31,7 +31,7 @@
 - Affected by: Poison, Bleed
 
 # Curse-rotted Greatwood
-- HP: 5000
+- HP: 3000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1    (100%)
@@ -44,7 +44,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Crystal Sage
-- HP: 4000
+- HP: 3000
 - Absorption: Standard:     1.2  (120%)
 - Absorption: Slash:        1.2  (120%)
 - Absorption: Strike:       1.2  (120%)
@@ -72,7 +72,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Abyss Watchers
-- Boss HP: 1000, 5000
+- Boss HP: 6000
 - Add HP: 500
 - Absorption: Standard:     0.9 (90%)
 - Absorption: Slash:        0.9 (90%)
@@ -112,7 +112,7 @@
 - Affected by: Poison, Bleed
 
 # Pontiff Sulyvahn
-- Boss HP: 6000
+- Boss HP: 10000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1    (100%)
@@ -125,7 +125,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Pontiff Sulyvahn (Clone)
-- HP: 1000
+- HP: 500
 - Absorption: Standard:     0.5  (50%)
 - Absorption: Slash:        0.5  (50%)
 - Absorption: Strike:       0.5  (50%)
@@ -138,7 +138,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Aldrich, Devourer of Gods
-- HP: 8000
+- HP: 12000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1.1  (110%)
 - Absorption: Strike:       0.8  (80%)
@@ -151,7 +151,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Yhorm the Giant
-- HP: 20000
+- HP: 12000
 - Absorption: Standard:     0.9  (90%)
 - Absorption: Slash:        0.9  (90%)
 - Absorption: Strike:       1.15 (115%)
@@ -164,7 +164,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Dancer of the Boreal Valley
-- HP: 6000
+- HP: 8000
 - Absorption: Standard:     0.9  (90%)
 - Absorption: Slash:        0.9  (90%)
 - Absorption: Strike:       0.8  (80%)
@@ -177,7 +177,7 @@
 - Affected by: Poison, Bleed
 
 # Oceiros, the Consumed King
-- HP: 8000
+- HP: 10000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       0.8  (80%)
@@ -216,7 +216,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # King of the Storm
-- HP: 2000
+- HP: 5000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       0.9  (90%)
@@ -229,7 +229,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Nameless King
-- HP: 16000
+- HP: 12000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       1    (100%)
@@ -255,8 +255,8 @@
 - Affected by: Poison, Bleed, Frost
 
 # Lorian, Elder Prince
-- Phase 1 HP: 4000
-- Phase 2 HP: 4000
+- Phase 1 HP: 8000
+- Phase 2 HP: 8000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       1    (100%)
@@ -282,7 +282,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Soul of Cinder
-- HP: 30000
+- HP: 16000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1    (100%)
@@ -295,7 +295,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Sister Friede
-- HP: 3000, 6000
+- HP: 6000, 12000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1    (100%)
@@ -308,7 +308,7 @@
 - Affected by: Poison, Bleed
 
 # Father Ariandel
-- HP: 4000
+- HP: 6000
 - Absorption: Standard:     0.8  (80%)
 - Absorption: Slash:        0.8  (80%)
 - Absorption: Strike:       0.8  (80%)
@@ -321,7 +321,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Gravetender Greatwolf
-- HP: 4000
+- HP: 8000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1    (100%)
@@ -334,7 +334,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Demon Princes
-- HP: 5000, 10000
+- HP: 10000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       1.2  (120%)
@@ -346,7 +346,7 @@
 - Affected by: Poison, Bleed
 
 # Darkeater Midir
-- HP: 30000
+- HP: 20000
 - Absorption: Standard:     0.5  (50%)
 - Absorption: Slash:        0.5  (50%)
 - Absorption: Strike:       0.5  (50%)
@@ -359,7 +359,7 @@
 - Affected by: Poison, Bleed, Frost
 
 # Slave Knight Gael
-- HP: 10000, 20000
+- HP: 12000
 - Absorption: Standard:     1    (100%)
 - Absorption: Slash:        1    (100%)
 - Absorption: Strike:       0.8  (80%)

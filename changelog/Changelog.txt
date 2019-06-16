@@ -2,218 +2,147 @@
 # Changelog
 #------------------------------
 # General
-- Removed the Scorched Contract feature. I've run into issues and I'd rather focus on the Covenant of Champions as a challenge route, not have two parallel features doing the same thing.
-- Added new bonfire menu pictures for the moved bonfires.
-
-# Gameplay
-- Sources of +attunement have been cut down to fix a crash due to having more than 14 attunement slots.
-- Bosses now drop 1 Cinders [Chance: 100%] when in the Covenant of Champions.
-- Cinders can now be transfused into boss souls. You need to have killed the boss for this to be available.
-- Boss souls are no longer sold by the Shrine Handmaid.
+- Switching to the Company of Champion now only activates the Cinders dropping after a 30 to 60 second delay.
+- White Phantoms should be tankier.
+- Changed the visual scaling for HP to 3000
+- Changed the visual scaling for FP to 1000
 
 # Weapons
-- Whip light attack animation is now 25% faster.
-- Cleric's Candlestick: adjusted Enchanted/Holy infusions
-- Demon's Scar: adjusted Enchanted/Holy infusions
-- Golden Ritual Spear: adjusted Enchanted/Holy infusions
-- Adjusted the Spell Buff of all spell tools.
-- Reduced the aux gain from reinforcement for Poison/Bleed/Frost infusions.
-- Sword of Awoval is now transfused from Soul of Aldrich.
-
-# Armor
-- Black Set: grants 1 FP per second
-- Shadow Set: reduces enemy sight by 50% (from 90%) and enemy listen by 50% (from 90%).
-
-# Ring
-- Adjusted the weight of rings.
-- Ring of Wisdom: increases max FP by 10%, spell duration by 50%.
-- Wolf Ring: Reduces weapon stamina consumption by 10% and weapon skill FP consumption by 10%
+- Whip moveset animations are now faster.
+- Bow moveset animations are now faster.
+- Greatbow moveset animations are now faster.
+- Reduced stamina cost for greatbow actions.
+- Reduced the power of the Impact weapon skill.
+- Added Fool's Flame.
+- Added Petrified Flame.
+- Added Jester's Talisman.
+- Added Darkmoon Ritual Staff.
+- Reduced the max reinforcement multiplier on damage for Lucky, Enchanted, Holy to 1.8 (from 2).
+- Yorshka's Spear WA now applies Vow of Silence for 5 seconds on target.
+- Changed Shortbow bow distance modifier to -30
+- Changed White Birch Bow bow distance modifier to -15
+- Changed Dragonslayer Greatbow bow distance modifier to 15
+- Changed Onislayer Greatbow bow distance modifier to 30
+- Changed Black Bow of Pharis bow distance modifier to 15
+- Changed Millwood Greatbow bow distance modifier to 0
 
 # Items
-- Bursting Halo is now transfused from the Soul of Slave Knight Gael.
-- Sunlight Barrage is now transfused from the Soul of the Nameless King.
-- Abyssal Burst is now transfused from the Soul of Midir.
-- Removed Soul of the Dark Sun item.
-- Reversal Ring is now found in the Darkmoon Tomb chest.
-- Adjusted purchase cost of spells.
-- Dreamchaser Ashes now adds Standard Arrow, Standard Bolt, Fire Arrow and Poison Arrow
-- Paladin's Ashes now adds Large Arrow, Heavy Bolt, Sniper Bolt and Dragonslayer Greatarrow
-- Grave Warden's Ashes now adds Splintering Bolt
-- Excrement-Covered Ashes now adds Green Blossom and Budding Green Blossom
-- Prisoner Chief's Ashes now adds Exploding Bolt
-- Xanthous Ashes now adds Moonlight Arrow, Lightning Urn, Lightning Bolt and Dragonslayer Lightning Arrow.
+- Added Oak Crossbow as a treasure in the Cathedral of the Deep.
+- Soul of High Lord Wolnir can now transfuse into Fool's Flame.
+- Soul of the Old Demon King can now transfuse into Petrified Flame.
+- Soul of Aldrich can now transfuse into Darkmoon Ritual Staff.
+- Added Jester's Talisman as treasure in Profaned Capital.
+- Added 2 Titanite Scale treasures to High Wall of Lothric.
+- Added Fire Stone: applies fire SFX on main weapon. Purchased from the Shrine Handmaid.
+- Added Magic Stone: applies crystal magic SFX on main weapon. Purchased from the Shrine Handmaid.
+- Added Lightning Stone: applies lightning SFX on main weapon. Purchased from the Shrine Handmaid.
+- Added Dark Stone: applies dark SFX on main weapon. Purchased from the Shrine Handmaid.
+- Added Poison Stone: applies poison SFX on main weapon. Purchased from the Shrine Handmaid.
+- Added Bleed Stone: applies bleed SFX on main weapon. Purchased from the Shrine Handmaid.
+- Added Frost Stone: applies frost SFX on main weapon. Purchased from the Shrine Handmaid.
+- Added Blessed Stone: applies blessed light SFX on main weapon. Purchased from the Shrine Handmaid.
+- Shrine Handmaid now sells Divine and Hidden Blessings after all four Lords of Cinder have been returned.
+- Orbeck's Ashes now add Slumbering Dragoncrest Ring and Young Dragon Ring
 
-# Spells
-- Soul Stream startup animation is now 400% faster.
-- Firestorm/Chaos Storm animation is now 100% faster.
-- Dark Edge animation is now 50% faster.
-- Divine Pillars of Light animation is now 100% faster.
-- Lifehunt Scythe animation is now 100% faster.
-
-- Farron Dart: Damage -> 100
-- Great Farron Dart: Damage -> 120
-- Soul Arrow: Damage -> 140
-- Great Soul Arrow: Damage -> 160
-- Crystal Soul Spear: Damage -> 330
-- Farron Hail: Damage -> 100
-- Crystal Hail: Damage -> 100
-- Farron Flashsword: Damage -> 100
-- Old Moonlight: Damage -> 250 (300 charged) [250]
-- Soul Barrage: Damage -> 150
-- Deep Soul: Damage -> 140
-- Great Deep Soul: Damage -> 160
-- Pursuing Soul: Damage -> 130
-- Dark Edge: Damage -> 100
-- Abyssal Burst: Damage -> 340
-- Divine Pillars of Light: Damage -> 340
-- Great Deep Soul: INT Req -> 20
-- Great Deep Soul: FTH Req -> 20
-- Soul Greatsword: INT Req -> 22
-- Old Moonlight: INT Req -> 40
-- Soul Wave: INT Req -> 25
-- Soul Barrage: INT Req -> 50
-- Pestilent Mist: INT Req -> 30
-- Unleash Magic: INT Req -> 30
-- Great Soul Dregs: INT/FTH Req -> 30
-- Abyssal Edge: INT/FTH Req -> 20
-- Abyssal Burst: INT/FTH Req -> 40
-- Dark Edge: uses Dark Edge animation
-- Abyssal Edge: uses Dark Edge animation
-
-- Fireball: Damage -> 140 [120]
-- Fire Orb: Damage -> 160 [140]
-- Fire Surge: Damage -> 100
-- Great Chaos Fire Orb: Damage: 300 [100]
-- Chaos Bed Vestiges: 330 [110]
-- Fire Whip: Damage -> 100
-- Floating Chaos: Damage -> 100
-- Singe: Damage -> 100
-- Flame Fan: Damage -> 120
-- Bursting Fireball -> 120
-- Seething Chaos: 220 [300]
-- Cataclysm: 340 [150]
-- Black Serpent: Damage -> 300
-- Black Serpent: FP -> 48
-- Black Fire Orb: Damage: 220 [200]
-
-- Emit Force: Damage -> 200 [100]
-- Way of White Corona -> Damage: 100
-- Lightning Bolt: Damage -> 100
-- Sunlight Barrage: Damage -> 150
-- Wrath of the Gods: Damage -> 330
-- Lightning Storm: Damage -> 200
-- Nibble: Damage -> 100
-- Gnaw: Damage -> 100
-- Ravenous Gnawing: Damage -> 160
-- Lifehunt Scythe: Damage: 200 [220] [240] [260]
-- Bursting Halo: FTH Req -> 40
-- Divine Pillars of Light: FTH Req -> 55
-- Lightning Stake: FTH Req -> 30
-- Halo: FTH Req -> 30
-- Sunlight Barrage: FTH Req -> 50
-- Bountiful Light: FTH Req -> 15
-- Replenishment: FTH Req -> 25
-- Tears of Denial: FTH Req -> 20
-- Sacred Oath: FTH Req -> 35
-- Magic Barrier: FTH Req -> 20
-- Great Magic Barrier: FTH Req -> 40
-- Dorhys' Gnawing: INT/FTH Req -> 20
-- Ravenous Gnawing: INT/FTH Req -> 25
-- Voracious Gnawing: INT/FTH Req -> 30
-- Halo: uses Force cast animation
-- Bursting Halow: FP -> 8
+# Rings
+- Calamity Ring: increases physical damage by 15% but wearer loses 1% HP a second.
+- Ring of Woe: boosts stamina recovery by 30 but wearer loses 1% HP a second.
+- Ring of Adversity: grants 4 FP every second but wearer loses 1% HP a second.
+- Ring of Catastrophe: boosts elemental spell power by 15% but wearer loses 1% HP a second.
 
 # Enemies
-- Adjusted boss HP and damage.
-- Boss absorption values have been adjusted, mainly to reduce spell burst.
-- Giant Crystal Lizard in Cemetery of Ash now drop Titanite Scale at Chance: 2%.
-- Giant Crystal Lizard in Cathedral of the Deep and Farron Keep now drop Titanite Scale at Chance: 5%.
-- Giant Crystal Lizard in Untended Graves now drop Titanite Scale at Chance: 10%.
-- Ancient Wyvern (respawning) now drop Dragon Scale at Chance: 10%.
-- Sulyvahn's Beast (respawning) now drop Twinkling Titanite at Chance: 10%.
-- Great Crabs (Smouldering Lake) now drop Titanite Scale at Chance: 10%.
-- Demons now drop Fire Seed at Chance: 5%.
-- Rock Lizard now drop Titanite Scale and Twinkling Titanite at Chance: 1%.
-- Boreal Outrider Knights now drop Twinkling Titanite at Chance: 5%.
-- Reduced the base HP of the respawning Deep Acursed to 300 (from 500).
-- Daughter of Crystal Kriemhild in Untended Graves now drops 3 Twinkling Titanite.
-- Reduced soul gain from Giant Crystal Lizards.
-- Reduced soul gain from Deep Acursed.
-- Reduced soul gain from Boreal Outrider Knight.
-- Reduced soul gain from Demon.
+- Lowered boss HP.
+- Crystal Lizards now only drop Titanite Scales or Twinkling Titanite.
+- Reduced Deep Accursed chance to drop Titanite Chunks
+- Fixed Ghrus dropping Large Titanite Shards and Titanite Chunks rather than Titanite Shards and Large Titanite Shards.
 
-
-# Bugfixes
-- Changed the Veiled spell tools to use effect-based invisibility. Fixes issues with stuff like Farron Flashsword working incorrectly.
-- Ringfinger Leonhard should no longer be obscured in Firelink Shrine.
+# Spells
+- Adjusted the stamina damage on many spells.
+- Adjusted the poise damage on many spells.
+- Seeds of Chaos now uses a smaller SFX that makes no noise.
 
 # High Wall of Lothric
-- Removed Ancient Wyvern in Tower on the Wall bonfire area.
-- Added Boreal Outrider Knight in Tower on the Wall bonfire area.
-- Door at the top of elevator shortcut should now be usable.
-- Removed Pus of Man.
-- Removed Pus of Man.
-- Added Lothric Knight.
-- Added Hollow Crossbowman.
+- Removed added Lothric Knights.
+- Removed added Winged Knights.
+- Added Captain Morrel: drops Lothric Knight Greatsword and Ember.
 
-# Undead Settlement
-- Removed Boreal Outrider Knight.
-
-# Cathedral of the Deep
-- Removed 1 of the new Deep Accursed
-- Moved the new Deep Accursed into the left-side wing of the cathedral.
-- Added Cathedral Knight.
+# Road of Sacrifices
+- Added corpse in the Halfway Fortress bonfire area, holding Anri's Straight Sword.
+- Added Sieghardt of Catarina: drops Catarina Set and Pierce Shield.
+- Added Forgotten Locklin: drops Mirrah Chain Set and Dragonslayer's Axe.
 
 # Catacombs of Carthus
-- Moved Bonewheel Skeleton into rock tunnel.
+- Added Holy Knight Morton: drops Sunset Set, Silvercat Ring and Sunset Shield
 
 # Smouldering Lake
-- The demons have been moved to allow for a relatively safe route to the boss fog.
+- Moved the Smouldering Lake bonfire to the cave where the Great Crabs were.
+- Removed 2 Great Crabs
+- Removed 2 Carthus Swordsmen
+- Removed 1 Demon Cleric
+- Added Lilla of the Sunless Realms: drops Sunless Talisman and Sunless Set.
 
-# Irithyll
-- Added Pontiff Knight.
-- Added Pontiff Knight.
+# Lothric Castle
+- Added Tiny: drops Titanite Slab.
+- Added Luyila of Londor: drops Black Set and Darkdrift.
+- Added Dominatrix Sharron: drops 3 Cinders.
+- Removed added Boreal Outrider Knights.
 
-# Anor Londo
-- Removed four of the added Silver Knights.
-- Added Giant Slave to dueling spot.
-
-# Irithyll Dungeon
-- Added Infested Corpse.
-- Added Infested Corpse.
-- Added Wretch.
-- Added Wretch.
-- Added Wretch.
-- Added Lycanthrope.
-- Added Lycanthrope.
-- Removed Jailers from a room on the right-side of the dungeon.
-- Removed the Jailers from the lower level of the dungeon.
-- Added Giant Rat.
-- Added Giant Rat.
-- Added Giant Rat.
-- Added Giant Rat.
-- Added Giant Rat.
-- Added Giant Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-- Added Rat.
-
-# Ariandel
-- Moved Corvian Knight by the gate in the village up onto the higher path.
+# Bugfixes
+- Fixed issues with the Attack Element Corrections being wrong for weapons that scaled with FTH for spell buff, and other related bugs.
+- Fixed effects when wielding two weapons of the same reinforcement level with an effect not stacking. They will now stack correctly.
+- Added support for all clients to scripts that interact with the player. This means player summons/invaders now get FP regen, armor set effects, etc.
+- Sword Master summon for Vordt now has sufficient DEX for his Uchigatana.
+- Midir now actually has poise again.
+- Fixed various weapons with innate elemental damage not using a suitable elemental hit SFX.
 
 #------------------------------
 # TODO
 #------------------------------
-Check TAE for arrows, missing link for model/sfx issue?
+# General
+
+# Spells
+Add new spells:
+- Black Dart 8180000
+<farron dart>
+526102
+526103
+
+- Black Fireball
+<fireball>
+526102
+526103
+
+- Black Fire Surge
+<fire surge>
+526102
+526103
+
+- Black Fire Barrage 
+<farron hail>
+526102
+526103
+
+- Black Inferno 
+<crystal hail>
+526102
+526103
+
+- Black Eruption 
+<great combustion>
+526103
+
+- Black Firestorm
+<firestorm>
+524532
+
+- Black Upheaval
+<floating chaos>
+526102
+526103
+
+- Black Fire Volley
+<halo>
+526102
+526103
 
 

@@ -21,15 +21,12 @@ After placing the Coiled Sword you may warp to:
 - Added Castle Entrance bonfire, in the courtyard between Vordt and Dancer.
 - Added Boreal Outrider Knight in Tower on the Wall bonfire area.
 - Added three Hollow Soldiers to starting rampart after first bonfire.
-- Added Lothric Knight in transition passage to Dragon courtyard.
 - Added Mimic to mimic room, drops 1 Cinders.
 - Added corpse to mimic room, holds 1 Ember.
-- Added Winged Knight to rooftop that leads to courtyard.
 - Added Hollow Crossbowman to rooftop overlooking courtyard.
 - Added Hollow Crossbowman to courtyard between Vordt and Dancer.
-- Added Winged Knight to courtyard between Vordt and Dancer.
-- Added Lothric Knight.
 - Added Hollow Crossbowman.
+- Added Captain Morrel: drops Lothric Knight Greatsword and Ember.
 
 #---------------------------------
 # Undead Settlement - m31
@@ -53,6 +50,8 @@ After placing the Coiled Sword you may warp to:
 - Added Elder Ghru.
 - Added Elder Ghru.
 - Added Elder Ghru.
+- Added corpse in the Halfway Fortress bonfire area, holding Anri's Straight Sword.
+- Added Sieghardt of Catarina: drops Catarina Set and Pierce Shield.
 
 #---------------------------------
 # Farron Keep - m33
@@ -64,6 +63,7 @@ After placing the Coiled Sword you may warp to:
 - Added Basilisk.
 - Added Basilisk.
 - Added Basilisk.
+- Added Forgotten Locklin: drops Mirrah Chain Set and Dragonslayer's Axe.
 
 #---------------------------------
 # Cathedral of the Deep - m35
@@ -91,11 +91,12 @@ After placing the Coiled Sword you may warp to:
 - Added Bonewheel Skeleton.
 - Added Bonewheel Skeleton.
 - Added Black Knight.
+- Added Holy Knight Morton: drops Sunset Set, Silvercat Ring and Sunset Shield
 
 #---------------------------------
 # Smouldering Lake - m38
 #---------------------------------
-- Moved the Demon Ruins bonfire to the top of the map, by the ballista.
+- Moved the Demon Ruins bonfire to the cave where the Great Crabs were.
 - Renamed Demon Ruins bonfire to Smouldering Lake bonfire and changed menu image.
 - Removed the Abandoned Tomb bonfire.
 - Removed the Old King's Antechamber bonfire. 
@@ -113,7 +114,7 @@ After placing the Coiled Sword you may warp to:
 - Added Black Knight.
 - Added Black Knight.
 - Added Demon Cleric.
-- Added Demon Cleric.
+- Added Lilla of the Sunless Realms: drops Sunless Talisman and Sunless Set.
 
 #---------------------------------
 # Irithyll of the Valley - m37
@@ -178,8 +179,9 @@ After placing the Coiled Sword you may warp to:
 #---------------------------------
 - Dragonslayer Armour boss bonfire removed.
 - Dragon Barracks bonfire moved close to Dragonslayer Armour.
-- Added Boreal Outrider Knight.
-- Added Boreal Outrider Knight.
+- Added Tiny: drops Titanite Slab.
+- Added Luyila of Londor: drops Black Set and Darkdrift.
+- Added Dominatrix Sharron: drops 3 Cinders.
 
 #---------------------------------
 # Consumed King's Gardens - m30

@@ -26,84 +26,111 @@
 #------------------------
 # Dragonhead Shield 
 - Effect: boosts Fire damage by 5%
+- Source: Treasure - Ringed City
 
 # Eastern Iron Shield 
 - Effect: reduces weapon stamina consumption by 10%
+- Source: Purchase - Easterner's Ashes - Shrine Handmaid
 
 # Elkhorn Round Shield 
 - Effect: grants 10% Physical Absorption
+- Source: Purchase - Greirat
 
 # Golden Falcon Shield 
 - Effect: grants 5 Luck
+- Source: Treasure - Road of Sacrifices
 
 # Hawkwood's Shield
 - Effect: grants weapon stamina consumption reduction of 10%
+- Source: Quest - Hawkwood
 
 # Llewellyn Shield 
 - Effect: grants 10% Magic Absorption
+- Source: Quest - Horace
+- Source: Drop - Horace
 
 # Sacred Bloom Shield 
 - Effect: grants 10% increased Max FP.
+- Source: Treasure - Lothric Castle
 
 #------------------------
 # Medium Shields
 #------------------------
 # Dragon Crest Shield 
 - Effect: boosts Lightning damage by 5%
+- Source: Treasure - Farron Keep
 
 # Ethereal Oak Shield   
 - Effect: grants 2 HP per second
+- Source: Treasure - Ariandel
 
 # Golden Wing Crest Shield 
 - Effect: reduces spell FP cost by 20%.
+- Source: Drop - Lion Knight Albert - Grand Archives
 
 # Grass Crest Shield    
 - Effect: increases Stamina recovery by 10
+- Source: Treasure - Farron Keep
 
 # Porcine Shield 
 - Effect: grants 25 Item Discovery
+- Source: Trade - Crow - Undead Bone Shard
 
 # Shield of Want    
 - Effect: increases souls gain by 20%
+- Source: Treasure - Smouldering Lake
 
 # Spirit Tree Crest Shield 
 - Effect: grants 25 FP on enemy kills
+- Source: Treasure - Lothric Castle
 
 # Sunlight Shield 
 - Effect: boosts the potency of miracles by 5%
+- Source: Covenant - Warriors of Sunlight Rank 1
 
 # Sunset Shield 
 - Effect: grants 10 Stamina recovery
+- Source: Quest - Sirris of the Sunless Realms
 
 # Wargod Wooden Shield 
 - Effect: boosts Physical damage by 5%
+- Source: Treasure - Undead Settlement
 
 #------------------------
 # Greatshields
 #------------------------
 # Ancient Dragon Greatshield
 - Effect: grants 2 HP per second
+- Source: Treasure - Archdragon Peak
 
 # Curse Ward Greatshield 
 - Effect: increase damage against Hollow enemies by 25%
+- Source: Treasure - Cathedral of the Deep
 
 # Dragonhead Greatshield 
 - Effect: boosts Physical damage by 10%
+- Source: Treasure - Ringed City
 
 # Greatshield of Glory 
 - Effect: grants 10% Physical, Magic, Fire, Lightning and Dark Absorption
+- Source: Drop - Mimic - Profaned Capital
 
 # Moaning Shield 
 - Effect: Grants 15% increased damage whilst below 25% HP
+- Source: Quest - Eygon of Carim
+- Source: Drop - Eygon of Carim
 
 # Twin Dragon Greatshield 
 - Effect: Grants 50 item discovery
+- Source: Treasure - Road of Sacrifices
 
 # Wolf Knight's Greatshield
-- Effect: increases Resistances 
+- Effect: increases Resistances
+- Source: Covenant - Watchdogs of Farron Rank 2
 
 # Yhorm's Greatshield 
 - Effect: grants 10% increased Max HP.
+- Source: Boss - Yhorm the Giant
 
 #------------------------
 # New Shields
@@ -118,6 +145,7 @@
 - Dark Absorption: 50
 - Weapon Art: Parry
 - STR Requirement: 14
+- Source: Boss - Prince Lothric
 
 # Immortal Dragon Greatshield
 - Weight: 12
@@ -130,6 +158,7 @@
 - Weapon Art: Weapon Skill
 - STR Requirement: 36
 - DEX Requirement: 24
+- Source: Treasure - Archdragon Peak
 
 # Cleric's Parma
 - Weight: 1.5
@@ -141,3 +170,5 @@
 - Dark Absorption: 45
 - Weapon Art: Spell Parry
 - STR Requirement: 7
+- Source: Drop - Undead Cleric - Cemetery of Ash
+- Source: Drop - Undead Cleric - Untended Graves

@@ -961,19 +961,19 @@ Deep Braille Divine Tome - Cathedral of the Deep
 - Source: Treasure - Dreg Heap
 
 #--------------------------------
-# Bountiful Light 
+# Replenishment
 #--------------------------------
 - FP Cost: 24 
 - Stamina Cost: 90
 - Heals 10 HP per second
-- Lasts 30 seconds
+- Lasts 15 seconds
 - Slot Usage: 1
 
 - FTH Req: 15
-- Source: Irina - Braille Divine Tome of Lothric - High Wall of Lothric
+- Source: Irina - Default
 
 #--------------------------------
-# Replenishment
+# Bountiful Light 
 #--------------------------------
 - FP Cost: 56 
 - Stamina Cost: 120
@@ -982,7 +982,7 @@ Deep Braille Divine Tome - Cathedral of the Deep
 - Slot Usage: 1
 
 - FTH Req: 25
-- Source: Irina - Default
+- Source: Irina - Braille Divine Tome of Lothric - High Wall of Lothric
 
 #--------------------------------
 # Bountiful Sunlight 

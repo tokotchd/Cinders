@@ -13,6 +13,7 @@
 - Fire Absorption:      0.9  (10%)
 - Lightning Absorption: 1.1  (-10%)
 - Dark Absorption:      0.9  (10%)
+- Source: Boss - Ancient Wyvern
 
 # Dragon Torso Stone
 - Physical Absorption:  0.8  (30%)
@@ -24,6 +25,7 @@
 - Lightning Absorption: 1.2  (-20%)
 - Dark Absorption:      0.8  (30%)
 - Prevents staggering.
+- Source: Treasure - Irithyll Dungeon
 
 # Twinkling Dragon Head Stone
 - Physical Absorption:  0.9  (10%)
@@ -35,6 +37,7 @@
 - Lightning Absorption: 1.1  (-10%)
 - Dark Absorption:      0.9  (10%)
 - Roar deals 400 Fire damage.
+- Source: Quest - Hawkwood
 
 # Twinkling Dragon Torso Stone
 - Physical Absorption:  0.8  (30%)
@@ -46,6 +49,7 @@
 - Lightning Absorption: 1.2  (-20%)
 - Dark Absorption:      0.8  (30%)
 - Prevents staggering.
+- Source: Quest - Archdragon Peak Altar
 
 # Young Grass Dew
 - Now an unlimited usable item.
@@ -53,44 +57,50 @@
 - Costs 60 FP to use.
 - Requires the Spears of the Church emblem equipped
 - Grants 1% HP and 1 FP recovery per second, 5 stamina recovery and 5% damage absorption for two minutes.
+- Source: Covenant - Spears of the Church Rank 1
 
 # Flame Ember
 - Costs 50 FP to use.
 - Lasts until death.
 - Activates the latent power of Fire infusions, adding a fire visual effect to your Fire infused weapons and boosting Fire damage by 5%. 
+- Source: Treasure - Road of Sacrifices
 
 # Crystal Ember
 - Costs 50 FP to use.
 - Lasts until death.
-- Activates the latent power of Magic infusions, adding a crystal magic visual effect to your Magic infused weapons and boosting Magic damage by 5%. 
+- Activates the latent power of Magic infusions, adding a crystal magic visual effect to your Magic infused weapons and boosting Magic damage by 5%.
+- Source: Treasure - Farron Keep 
 
 # Lightning Ember
 - Costs 50 FP to use.
 - Lasts until death.
 - Activates the latent power of Lightning infusions, adding a lightning visual effect to your Lightning infused weapons and boosting Lightning damage by 5%. 
+- Source: Treasure - Anor Londo
 
 # Dark Ember
 - Costs 50 FP to use.
 - Lasts until death.
 - Activates the latent power of Dark infusions, adding a dark visual effect to your Dark infused weapons and boosting Dark damage by 5%. 
+- Source: Treasure - Irithyll Dungeon
 
 # Profane Ascetic
 - Use to increment your current New Game Plus count. This is irreversable once used. 
-- Dropped by the Fire Keeper.
-
-# Cinders
-- Dropped by enemies whilst pledged to the Company of Champions.
-- Can be consumed to increase restore 100% HP and FP.
-- Can be exchanged with the Nestling for random goods.
+- Source: Drop - Fire Keeper
 
 # Red Eye Orb
 - Costs 50 FP to use.
 - Lasts for 120 seconds.
 - Boosts soul gain by 25%
+- Source: Drop - Darkwraith - High Wall of Lothric
 
 #------------------------
 # Consumables
 #------------------------
+# Cinders
+- Dropped by enemies whilst pledged to the Company of Champions.
+- Can be consumed to increase restore 100% HP and FP.
+- Can be exchanged with the Nestling for random goods.
+
 # Cracked Red Eye Orb
 - Lasts for 120 seconds.
 - Boosts soul gain by 25%
